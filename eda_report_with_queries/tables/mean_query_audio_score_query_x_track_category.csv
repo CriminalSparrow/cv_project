@@ -1,0 +1,9 @@
+﻿query_audio_category,aggressive_intense,calm_relaxing,dark_tense,dreamy_atmospheric,energetic_electronic,happy_upbeat,romantic_warm,sad_melancholic
+aggressive_intense,1.0,0.0,0.7,0.1,0.6,0.0,0.0,0.2
+calm_relaxing,0.0,1.0,0.1,0.7,0.0,0.3,0.6,0.5
+dark_tense,0.7,0.0,1.0,0.5,0.2,0.0,0.0,0.4
+dreamy_atmospheric,0.1,0.7,0.5,1.0,0.2,0.2,0.5,0.4
+energetic_electronic,0.6,0.0,0.3,0.2,1.0,0.6,0.0,0.0
+happy_upbeat,0.1,0.3,0.0,0.2,0.6,1.0,0.5,0.0
+romantic_warm,0.0,0.7,0.0,0.5,0.0,0.5,1.0,0.4
+sad_melancholic,0.0,0.6,0.4,0.6,0.0,0.0,0.5,1.0

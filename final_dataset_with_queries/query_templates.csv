@@ -1,0 +1,301 @@
+﻿query_audio_category,query_template_id,user_query
+happy_upbeat,0,хочу веселую позитивную музыку
+happy_upbeat,1,подбери радостный и бодрый трек
+happy_upbeat,2,нужна upbeat музыка для видео
+happy_upbeat,3,хочу что-то светлое и жизнерадостное
+happy_upbeat,4,подбери музыку с позитивным настроением
+happy_upbeat,5,нужен веселый трек без мрачной атмосферы
+happy_upbeat,6,хочу легкую радостную музыку
+happy_upbeat,7,подбери позитивную музыку для приятного видео
+happy_upbeat,8,нужен трек с хорошим настроением
+happy_upbeat,9,"хочу музыку, которая звучит радостно и тепло"
+happy_upbeat,10,подбери яркий и дружелюбный трек
+happy_upbeat,11,нужна музыка для счастливого момента
+happy_upbeat,12,хочу бодрую позитивную композицию
+happy_upbeat,13,подбери музыку для веселого ролика
+happy_upbeat,14,нужен uplifting трек
+happy_upbeat,15,хочу солнечную и приятную музыку
+happy_upbeat,16,подбери что-то радостное и ненавязчивое
+happy_upbeat,17,нужна позитивная музыка для короткого видео
+happy_upbeat,18,хочу трек с легкой праздничной атмосферой
+happy_upbeat,19,"подбери музыку, которая создает хорошее настроение"
+happy_upbeat,20,нужна cheerful музыка
+happy_upbeat,21,хочу приятный бодрый поп-трек
+happy_upbeat,22,подбери музыку для радостного настроения
+happy_upbeat,23,нужен оптимистичный музыкальный фон
+happy_upbeat,24,хочу веселую музыку для яркого видео
+happy_upbeat,25,"подбери трек, который звучит позитивно"
+happy_upbeat,26,нужна музыка с ощущением радости
+happy_upbeat,27,"хочу что-то легкое, доброе и позитивное"
+happy_upbeat,28,подбери трек для happy mood
+happy_upbeat,29,нужна бодрая и светлая музыка
+energetic_electronic,0,хочу энергичную электронную музыку
+energetic_electronic,1,подбери динамичный электронный трек
+energetic_electronic,2,нужна музыка для активного видео
+energetic_electronic,3,хочу быстрый электронный трек
+energetic_electronic,4,подбери музыку с сильной энергией
+energetic_electronic,5,нужна динамичная музыка с битом
+energetic_electronic,6,хочу электронную музыку для движения
+energetic_electronic,7,подбери трек для спортивного ролика
+energetic_electronic,8,нужна энергичная музыка для action видео
+energetic_electronic,9,хочу музыку с плотным электронным звучанием
+energetic_electronic,10,подбери что-то танцевальное и энергичное
+energetic_electronic,11,нужен трек с драйвом
+energetic_electronic,12,хочу музыку с быстрым темпом
+energetic_electronic,13,подбери электронный трек для динамичной сцены
+energetic_electronic,14,нужна музыка для монтажа с быстрыми кадрами
+energetic_electronic,15,хочу клубный электронный вайб
+energetic_electronic,16,подбери энергичный dance трек
+energetic_electronic,17,"нужна музыка, которая добавляет движение"
+energetic_electronic,18,хочу что-то мощное и электронное
+energetic_electronic,19,подбери трек для активного городского видео
+energetic_electronic,20,нужна музыка с выраженным ритмом
+energetic_electronic,21,хочу электронный фон с энергией
+energetic_electronic,22,подбери трек для бодрого видео
+energetic_electronic,23,нужна динамичная современная музыка
+energetic_electronic,24,хочу трек для спортивной нарезки
+energetic_electronic,25,подбери музыку для быстрого темпа
+energetic_electronic,26,нужен energetic electronic soundtrack
+energetic_electronic,27,"хочу музыку, которая звучит современно и активно"
+energetic_electronic,28,подбери электронный трек с драйвом
+energetic_electronic,29,нужна музыка для видео с движением
+calm_relaxing,0,хочу спокойную расслабляющую музыку
+calm_relaxing,1,подбери мягкий фоновый трек
+calm_relaxing,2,нужна спокойная музыка без резкой динамики
+calm_relaxing,3,хочу ненавязчивую расслабленную музыку
+calm_relaxing,4,подбери спокойный инструментальный фон
+calm_relaxing,5,нужна музыка для медленного видео
+calm_relaxing,6,хочу мягкую и спокойную композицию
+calm_relaxing,7,подбери relaxing music
+calm_relaxing,8,нужна музыка для спокойной атмосферы
+calm_relaxing,9,хочу плавный фоновый трек
+calm_relaxing,10,подбери музыку без напряжения
+calm_relaxing,11,нужна тихая и мягкая музыка
+calm_relaxing,12,хочу calm ambient background
+calm_relaxing,13,подбери спокойный трек для природы
+calm_relaxing,14,нужна музыка для расслабляющего видео
+calm_relaxing,15,хочу что-то медитативное и мягкое
+calm_relaxing,16,подбери музыку для peaceful mood
+calm_relaxing,17,нужна спокойная акустическая музыка
+calm_relaxing,18,хочу трек без агрессии и драматизма
+calm_relaxing,19,подбери легкую фоновую музыку
+calm_relaxing,20,"нужна музыка, которая не отвлекает"
+calm_relaxing,21,хочу спокойный chill трек
+calm_relaxing,22,подбери музыку для тихой сцены
+calm_relaxing,23,нужен расслабленный музыкальный фон
+calm_relaxing,24,хочу плавную спокойную музыку
+calm_relaxing,25,подбери трек для уютного видео
+calm_relaxing,26,нужна музыка для slow mood
+calm_relaxing,27,хочу мягкое спокойное звучание
+calm_relaxing,28,подбери спокойную музыку для монтажа
+calm_relaxing,29,нужен нейтральный расслабляющий фон
+dark_tense,0,хочу напряженную темную музыку
+dark_tense,1,подбери тревожный кинематографичный трек
+dark_tense,2,нужна драматичная музыка
+dark_tense,3,хочу мрачную атмосферную музыку
+dark_tense,4,подбери suspense soundtrack
+dark_tense,5,нужен темный напряженный фон
+dark_tense,6,хочу музыку для тревожной сцены
+dark_tense,7,подбери драматичный cinematic трек
+dark_tense,8,нужна музыка с ощущением опасности
+dark_tense,9,хочу dark cinematic music
+dark_tense,10,подбери трек для хоррор-атмосферы
+dark_tense,11,нужна напряженная музыка для видео
+dark_tense,12,хочу тревожный саундтрек
+dark_tense,13,подбери музыку для mystery mood
+dark_tense,14,нужен мрачный фон без веселья
+dark_tense,15,хочу музыку для страшной или тревожной сцены
+dark_tense,16,подбери dark ambient трек
+dark_tense,17,нужна музыка для драматического момента
+dark_tense,18,хочу что-то темное и кинематографичное
+dark_tense,19,подбери напряженный trailer-like трек
+dark_tense,20,нужна музыка с suspense эффектом
+dark_tense,21,хочу трек с мрачным настроением
+dark_tense,22,подбери музыку для tense video
+dark_tense,23,нужен драматичный темный саундтрек
+dark_tense,24,"хочу музыку, которая усиливает тревогу"
+dark_tense,25,подбери музыку для ночной мрачной сцены
+dark_tense,26,нужен dark tense background
+dark_tense,27,хочу тревожное атмосферное звучание
+dark_tense,28,подбери трек для напряженного монтажа
+dark_tense,29,нужна кинематографичная темная музыка
+aggressive_intense,0,хочу жесткую интенсивную музыку
+aggressive_intense,1,подбери мощный агрессивный трек
+aggressive_intense,2,нужна роковая энергичная музыка
+aggressive_intense,3,хочу heavy rock настроение
+aggressive_intense,4,подбери агрессивный саундтрек
+aggressive_intense,5,нужна музыка с сильным напором
+aggressive_intense,6,хочу интенсивный трек для динамики
+aggressive_intense,7,подбери мощную музыку для action видео
+aggressive_intense,8,нужен трек с агрессивным звучанием
+aggressive_intense,9,хочу что-то тяжелое и энергичное
+aggressive_intense,10,подбери hard rock или metal вайб
+aggressive_intense,11,нужна музыка для экстремального ролика
+aggressive_intense,12,хочу aggressive intense music
+aggressive_intense,13,подбери трек с мощными гитарами
+aggressive_intense,14,нужна жесткая музыка для резкого монтажа
+aggressive_intense,15,хочу музыку с давлением и драйвом
+aggressive_intense,16,подбери интенсивный роковый фон
+aggressive_intense,17,нужен мощный трек для спортивного видео
+aggressive_intense,18,хочу трек с тяжелой энергетикой
+aggressive_intense,19,подбери музыку для брутальной сцены
+aggressive_intense,20,нужна сильная и напористая музыка
+aggressive_intense,21,хочу aggressive soundtrack
+aggressive_intense,22,подбери музыку для экстремального спорта
+aggressive_intense,23,нужен тяжелый динамичный трек
+aggressive_intense,24,хочу интенсивный фон без спокойствия
+aggressive_intense,25,подбери трек для angry mood
+aggressive_intense,26,нужна музыка с максимальным драйвом
+aggressive_intense,27,хочу мощный intense rock трек
+aggressive_intense,28,подбери жесткую музыку для видео
+aggressive_intense,29,нужен энергичный агрессивный звук
+dreamy_atmospheric,0,хочу атмосферную мечтательную музыку
+dreamy_atmospheric,1,подбери ambient трек
+dreamy_atmospheric,2,нужна глубокая атмосферная музыка
+dreamy_atmospheric,3,хочу dreamy background music
+dreamy_atmospheric,4,подбери музыку с воздушной атмосферой
+dreamy_atmospheric,5,нужен трек для мечтательного настроения
+dreamy_atmospheric,6,хочу пространственный ambient фон
+dreamy_atmospheric,7,подбери атмосферную музыку для красивого видео
+dreamy_atmospheric,8,нужна музыка с ощущением глубины
+dreamy_atmospheric,9,хочу мягкий dreamy soundtrack
+dreamy_atmospheric,10,подбери трек для эстетичного видео
+dreamy_atmospheric,11,нужна музыка для атмосферного монтажа
+dreamy_atmospheric,12,хочу ambient cinematic mood
+dreamy_atmospheric,13,подбери музыку для видео с природой
+dreamy_atmospheric,14,нужна мечтательная спокойная музыка
+dreamy_atmospheric,15,хочу трек с пространственным звучанием
+dreamy_atmospheric,16,подбери атмосферную instrumental музыку
+dreamy_atmospheric,17,нужен воздушный фон для визуала
+dreamy_atmospheric,18,хочу музыку для созерцательной сцены
+dreamy_atmospheric,19,подбери deep atmospheric трек
+dreamy_atmospheric,20,нужна музыка с мягкой кинематографичностью
+dreamy_atmospheric,21,хочу dreamy ambient музыку
+dreamy_atmospheric,22,подбери трек для красивого slow motion видео
+dreamy_atmospheric,23,нужен фон с ощущением пространства
+dreamy_atmospheric,24,хочу музыку для вдохновляющей атмосферы
+dreamy_atmospheric,25,подбери атмосферный трек без агрессии
+dreamy_atmospheric,26,нужна музыка для эстетичного визуального контента
+dreamy_atmospheric,27,хочу легкий ambient фон
+dreamy_atmospheric,28,подбери трек для dream mood
+dreamy_atmospheric,29,нужна глубокая и мягкая атмосфера
+sad_melancholic,0,хочу грустную меланхоличную музыку
+sad_melancholic,1,подбери печальный эмоциональный трек
+sad_melancholic,2,нужна музыка для грустного видео
+sad_melancholic,3,хочу sad piano mood
+sad_melancholic,4,подбери melancholic soundtrack
+sad_melancholic,5,нужна медленная эмоциональная музыка
+sad_melancholic,6,хочу трек с ощущением грусти
+sad_melancholic,7,подбери музыку для печальной сцены
+sad_melancholic,8,нужна меланхоличная атмосфера
+sad_melancholic,9,хочу спокойную грустную музыку
+sad_melancholic,10,подбери emotional sad трек
+sad_melancholic,11,нужна музыка для драматичного момента
+sad_melancholic,12,хочу трек с ностальгическим настроением
+sad_melancholic,13,подбери грустный инструментальный фон
+sad_melancholic,14,нужна музыка с печальным оттенком
+sad_melancholic,15,хочу melancholic background music
+sad_melancholic,16,подбери трек для sadness mood
+sad_melancholic,17,нужна эмоциональная музыка без радости
+sad_melancholic,18,хочу медленный печальный саундтрек
+sad_melancholic,19,подбери грустную музыку для видео
+sad_melancholic,20,нужен трек для трогательной сцены
+sad_melancholic,21,хочу музыку с чувством потери
+sad_melancholic,22,подбери тихую меланхоличную композицию
+sad_melancholic,23,нужен sad cinematic фон
+sad_melancholic,24,хочу музыку для сентиментального видео
+sad_melancholic,25,подбери печальный piano track
+sad_melancholic,26,"нужна грустная, но мягкая музыка"
+sad_melancholic,27,хочу трек для melancholic mood
+sad_melancholic,28,подбери музыку для спокойной грусти
+sad_melancholic,29,нужна эмоциональная и медленная композиция
+romantic_warm,0,хочу теплую романтичную музыку
+romantic_warm,1,подбери мягкий романтический трек
+romantic_warm,2,нужна музыка для нежного видео
+romantic_warm,3,хочу warm romantic mood
+romantic_warm,4,подбери музыку с ощущением любви
+romantic_warm,5,нужен мягкий эмоциональный фон
+romantic_warm,6,хочу теплую акустическую музыку
+romantic_warm,7,подбери романтичный instrumental трек
+romantic_warm,8,нужна музыка для трогательного момента
+romantic_warm,9,хочу gentle romantic music
+romantic_warm,10,подбери мягкую музыку для пары
+romantic_warm,11,нужна теплая спокойная композиция
+romantic_warm,12,хочу музыку с нежной атмосферой
+romantic_warm,13,подбери warm acoustic трек
+romantic_warm,14,нужен романтический фон без драматизма
+romantic_warm,15,хочу приятную теплую музыку
+romantic_warm,16,подбери музыку для sentimental mood
+romantic_warm,17,нужна мягкая эмоциональная музыка
+romantic_warm,18,хочу трек с уютным звучанием
+romantic_warm,19,подбери романтическую фоновую музыку
+romantic_warm,20,нужен теплый музыкальный фон
+romantic_warm,21,хочу музыку для красивого личного момента
+romantic_warm,22,подбери нежный piano или guitar трек
+romantic_warm,23,нужна музыка с мягким романтическим вайбом
+romantic_warm,24,хочу спокойную теплую композицию
+romantic_warm,25,подбери трек для love mood
+romantic_warm,26,нужна романтичная музыка для видео
+romantic_warm,27,хочу теплую инструментальную музыку
+romantic_warm,28,подбери gentle warm soundtrack
+romantic_warm,29,нужна нежная музыка без резкости
+neutral_background,0,хочу нейтральную фоновую музыку
+neutral_background,1,подбери ненавязчивый background трек
+neutral_background,2,"нужна музыка, которая не отвлекает"
+neutral_background,3,хочу простой фоновый саундтрек
+neutral_background,4,подбери нейтральную музыку для монтажа
+neutral_background,5,нужен спокойный универсальный фон
+neutral_background,6,хочу музыку для презентационного видео
+neutral_background,7,подбери corporate background music
+neutral_background,8,нужна универсальная инструментальная музыка
+neutral_background,9,хочу фон без яркой эмоции
+neutral_background,10,подбери минималистичную музыку
+neutral_background,11,нужна музыка для нейтрального ролика
+neutral_background,12,хочу легкий background без акцентов
+neutral_background,13,подбери трек для документального видео
+neutral_background,14,нужна фоновая музыка без вокала
+neutral_background,15,хочу нейтральный инструментальный фон
+neutral_background,16,подбери ненавязчивую музыку для контента
+neutral_background,17,нужен простой музыкальный фон
+neutral_background,18,хочу музыку для спокойного объясняющего видео
+neutral_background,19,подбери background track
+neutral_background,20,"нужна музыка, не задающая сильное настроение"
+neutral_background,21,хочу универсальный фон для видео
+neutral_background,22,подбери музыку для tutorial видео
+neutral_background,23,нужен нейтральный саундтрек
+neutral_background,24,хочу фоновую музыку без драматизма
+neutral_background,25,подбери минимальный спокойный трек
+neutral_background,26,нужна музыка для обычного видео
+neutral_background,27,хочу unobtrusive background music
+neutral_background,28,подбери трек для no emotion видео
+neutral_background,29,нужен фоновый instrumental track
+playful_fun,0,хочу игривую забавную музыку
+playful_fun,1,подбери смешной легкий трек
+playful_fun,2,нужна музыка для веселого забавного видео
+playful_fun,3,хочу playful music
+playful_fun,4,подбери quirky трек
+playful_fun,5,нужна музыка для комедийной сцены
+playful_fun,6,хочу детскую или игровую атмосферу
+playful_fun,7,подбери забавный soundtrack
+playful_fun,8,нужен легкий игривый фон
+playful_fun,9,хочу музыку для funny mood
+playful_fun,10,подбери трек для смешного ролика
+playful_fun,11,нужна музыка с комедийным оттенком
+playful_fun,12,хочу cartoon-like music
+playful_fun,13,подбери веселую необычную музыку
+playful_fun,14,нужен игривый фон для видео
+playful_fun,15,хочу музыку для шутливой сцены
+playful_fun,16,подбери playful background
+playful_fun,17,нужна легкая забавная музыка
+playful_fun,18,хочу quirky funny soundtrack
+playful_fun,19,подбери трек для детского видео
+playful_fun,20,нужна музыка с игровой атмосферой
+playful_fun,21,хочу смешной и легкий музыкальный фон
+playful_fun,22,подбери музыку для забавного монтажа
+playful_fun,23,нужен playful upbeat трек
+playful_fun,24,хочу музыку с toy/cartoon настроением
+playful_fun,25,подбери трек для comedy mood
+playful_fun,26,"нужна веселая, но не агрессивная музыка"
+playful_fun,27,хочу легкий шутливый трек
+playful_fun,28,подбери музыку для funny video
+playful_fun,29,нужна игривая позитивная композиция

@@ -1,0 +1,4 @@
+﻿split,rows
+test,14400
+train,97920
+val,14400

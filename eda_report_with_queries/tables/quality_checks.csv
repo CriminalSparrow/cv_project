@@ -1,0 +1,16 @@
+﻿check,value,status,comment
+rows_total,126720,info,
+unique_videos_total,98,info,
+unique_tracks_total,60,info,
+unique_query_ids_total,2112,info,
+unique_user_query_texts_total,240,info,
+missing_values_in_expected_columns,0,ok,"Если есть пропуски, см. missing_values.csv."
+duplicate_query_video_track_triplets,0,ok,Дубликаты одной и той же тройки query-video-track нежелательны.
+overall_positive_ratio,0.2848,ok,Для retrieval/ranking допустима умеренная доля positive; слишком высокий баланс делает задачу менее строгой.
+video_id_split_leakage,0,ok,Одно и то же видео не должно попадать в разные split.
+tracks_present_in_all_splits,60,info,Это нормально: треки являются фиксированным словарём рекомендаций.
+user_query_text_overlap_between_splits,204,info,"Повтор шаблонов допустим, если проверяется обобщение на новые видео; для проверки новых формулировок нужен отдельный split по шаблонам."
+rare_audio_categories,romantic_warm,warning,Категории с числом треков меньше 3.
+rare_video_emotions,none,ok,Эмоции с числом видео меньше 3.
+missing_video_files,0,ok,Часть video_path не существует или файл пустой.
+missing_audio_files,0,ok,Часть audio_path не существует или файл пустой.

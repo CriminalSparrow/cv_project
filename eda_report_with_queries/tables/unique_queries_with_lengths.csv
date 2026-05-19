@@ -1,0 +1,2113 @@
+﻿split,query_id,user_query,query_audio_category,user_query_len_chars,user_query_len_words
+train,104__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,104__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,104__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,104__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,104__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,104__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,104__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,104__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,104__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,104__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+train,104__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,104__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,104__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,104__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,104__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,104__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,104__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,104__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,104__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,104__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,104__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,104__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,104__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+train,104__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,106__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,106__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,106__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,106__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,106__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,106__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,106__dark_tense__tpl_13,подбери музыку для mystery mood,dark_tense,31,5
+train,106__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,106__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,106__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,106__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,106__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+train,106__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,106__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,106__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,106__happy_upbeat__tpl_25,"подбери трек, который звучит позитивно",happy_upbeat,38,5
+train,106__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+train,106__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,106__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,106__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,106__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,106__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,106__sad_melancholic__tpl_6,хочу трек с ощущением грусти,sad_melancholic,28,5
+train,106__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,108__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,108__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,108__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,108__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,108__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,108__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+train,108__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,108__dark_tense__tpl_11,нужна напряженная музыка для видео,dark_tense,34,5
+train,108__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,108__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,108__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+train,108__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,108__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,108__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,108__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,108__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,108__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,108__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,108__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,108__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,108__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,108__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,108__sad_melancholic__tpl_20,нужен трек для трогательной сцены,sad_melancholic,33,5
+train,108__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,111__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,111__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,111__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,111__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,111__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,111__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,111__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,111__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,111__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,111__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,111__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,111__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,111__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,111__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,111__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,111__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,111__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,111__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,111__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,111__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,111__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,111__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,111__sad_melancholic__tpl_11,нужна музыка для драматичного момента,sad_melancholic,37,5
+train,111__sad_melancholic__tpl_5,нужна медленная эмоциональная музыка,sad_melancholic,36,4
+train,112__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,112__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,112__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,112__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,112__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,112__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+train,112__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,112__dark_tense__tpl_20,нужна музыка с suspense эффектом,dark_tense,32,5
+train,112__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,112__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,112__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,112__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,112__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,112__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,112__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,112__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+train,112__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,112__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,112__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,112__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+train,112__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,112__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,112__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,112__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,113__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,113__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,113__aggressive_intense__tpl_26,нужна музыка с максимальным драйвом,aggressive_intense,35,5
+train,113__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+train,113__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,113__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,113__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+train,113__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,113__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,113__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+train,113__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,113__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,113__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,113__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,113__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,113__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,113__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,113__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,113__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,113__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,113__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,113__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,113__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,113__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,116__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+train,116__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,116__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,116__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+train,116__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,116__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,116__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,116__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,116__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,116__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,116__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,116__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,116__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,116__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+train,116__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,116__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+train,116__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,116__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,116__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,116__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+train,116__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,116__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,116__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,116__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,202__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,202__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,202__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,202__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+train,202__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,202__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,202__dark_tense__tpl_13,подбери музыку для mystery mood,dark_tense,31,5
+train,202__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,202__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,202__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,202__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,202__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,202__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,202__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,202__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,202__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,202__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,202__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,202__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+train,202__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,202__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,202__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,202__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,202__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,204__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,204__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,204__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,204__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+train,204__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,204__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+train,204__dark_tense__tpl_13,подбери музыку для mystery mood,dark_tense,31,5
+train,204__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,204__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,204__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,204__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,204__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,204__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,204__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,204__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,204__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,204__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+train,204__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,204__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+train,204__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,204__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,204__sad_melancholic__tpl_20,нужен трек для трогательной сцены,sad_melancholic,33,5
+train,204__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,204__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,209__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,209__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+train,209__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,209__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,209__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+train,209__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+train,209__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,209__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,209__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,209__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,209__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+train,209__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+train,209__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,209__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,209__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+train,209__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+train,209__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,209__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,209__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,209__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+train,209__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,209__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,209__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,209__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+train,210__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,210__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,210__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+train,210__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,210__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+train,210__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,210__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,210__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,210__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,210__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,210__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,210__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,210__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,210__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,210__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+train,210__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,210__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,210__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,210__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,210__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,210__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,210__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+train,210__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,210__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,213__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,213__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,213__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+train,213__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,213__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+train,213__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,213__dark_tense__tpl_22,подбери музыку для tense video,dark_tense,30,5
+train,213__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+train,213__dark_tense__tpl_9,хочу dark cinematic music,dark_tense,25,4
+train,213__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,213__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,213__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,213__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+train,213__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,213__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,213__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,213__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,213__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,213__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+train,213__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,213__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,213__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+train,213__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,213__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,214__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,214__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,214__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,214__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,214__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,214__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,214__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,214__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,214__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,214__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,214__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,214__dreamy_atmospheric__tpl_27,хочу легкий ambient фон,dreamy_atmospheric,23,4
+train,214__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,214__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,214__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,214__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,214__happy_upbeat__tpl_8,нужен трек с хорошим настроением,happy_upbeat,32,5
+train,214__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,214__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+train,214__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,214__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,214__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,214__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,214__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,218__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,218__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,218__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,218__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,218__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,218__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,218__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,218__dark_tense__tpl_13,подбери музыку для mystery mood,dark_tense,31,5
+train,218__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+train,218__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+train,218__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,218__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,218__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+train,218__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,218__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,218__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,218__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,218__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,218__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,218__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,218__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,218__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,218__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,218__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,221__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,221__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,221__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,221__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,221__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,221__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,221__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+train,221__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,221__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,221__dreamy_atmospheric__tpl_4,подбери музыку с воздушной атмосферой,dreamy_atmospheric,37,5
+train,221__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,221__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,221__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,221__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,221__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,221__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,221__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,221__happy_upbeat__tpl_2,нужна upbeat музыка для видео,happy_upbeat,29,5
+train,221__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,221__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,221__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,221__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,221__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,221__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+train,222__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+train,222__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,222__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,222__calm_relaxing__tpl_26,нужна музыка для slow mood,calm_relaxing,26,5
+train,222__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,222__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,222__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,222__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,222__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,222__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,222__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,222__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,222__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,222__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,222__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,222__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,222__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,222__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,222__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,222__romantic_warm__tpl_12,хочу музыку с нежной атмосферой,romantic_warm,31,5
+train,222__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,222__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,222__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,222__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,601__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,601__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,601__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,601__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,601__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,601__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,601__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,601__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,601__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,601__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,601__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+train,601__dreamy_atmospheric__tpl_4,подбери музыку с воздушной атмосферой,dreamy_atmospheric,37,5
+train,601__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,601__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,601__energetic_electronic__tpl_1,подбери динамичный электронный трек,energetic_electronic,35,4
+train,601__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,601__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,601__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+train,601__romantic_warm__tpl_1,подбери мягкий романтический трек,romantic_warm,33,4
+train,601__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+train,601__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,601__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,601__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,601__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,604__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+train,604__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+train,604__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,604__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,604__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+train,604__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,604__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,604__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,604__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,604__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,604__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,604__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,604__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,604__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,604__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,604__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,604__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,604__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,604__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,604__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,604__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+train,604__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,604__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,604__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,605__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,605__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,605__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,605__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,605__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,605__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,605__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,605__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,605__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,605__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,605__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,605__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,605__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,605__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,605__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,605__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,605__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,605__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,605__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,605__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,605__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,605__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+train,605__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,605__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,608__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+train,608__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,608__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,608__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,608__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+train,608__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,608__dark_tense__tpl_3,хочу мрачную атмосферную музыку,dark_tense,31,4
+train,608__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,608__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,608__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,608__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+train,608__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,608__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+train,608__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,608__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+train,608__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,608__happy_upbeat__tpl_2,нужна upbeat музыка для видео,happy_upbeat,29,5
+train,608__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,608__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,608__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,608__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,608__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+train,608__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,608__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,609__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,609__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,609__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,609__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,609__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,609__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,609__dark_tense__tpl_0,хочу напряженную темную музыку,dark_tense,30,4
+train,609__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,609__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+train,609__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,609__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,609__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+train,609__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,609__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,609__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,609__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,609__happy_upbeat__tpl_8,нужен трек с хорошим настроением,happy_upbeat,32,5
+train,609__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,609__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,609__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,609__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+train,609__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,609__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,609__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,614__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,614__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,614__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,614__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,614__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+train,614__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,614__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,614__dark_tense__tpl_20,нужна музыка с suspense эффектом,dark_tense,32,5
+train,614__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,614__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,614__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+train,614__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+train,614__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,614__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,614__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,614__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,614__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,614__happy_upbeat__tpl_2,нужна upbeat музыка для видео,happy_upbeat,29,5
+train,614__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,614__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,614__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,614__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,614__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,614__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+train,617__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,617__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,617__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,617__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,617__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,617__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+train,617__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,617__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,617__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,617__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,617__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,617__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,617__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,617__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,617__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,617__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,617__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,617__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,617__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,617__romantic_warm__tpl_1,подбери мягкий романтический трек,romantic_warm,33,4
+train,617__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,617__sad_melancholic__tpl_11,нужна музыка для драматичного момента,sad_melancholic,37,5
+train,617__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,617__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,620__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,620__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,620__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+train,620__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+train,620__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+train,620__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+train,620__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,620__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,620__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,620__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,620__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,620__dreamy_atmospheric__tpl_11,нужна музыка для атмосферного монтажа,dreamy_atmospheric,37,5
+train,620__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,620__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,620__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,620__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,620__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,620__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+train,620__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+train,620__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,620__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,620__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,620__sad_melancholic__tpl_13,подбери грустный инструментальный фон,sad_melancholic,37,4
+train,620__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,622__aggressive_intense__tpl_23,нужен тяжелый динамичный трек,aggressive_intense,29,4
+train,622__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,622__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+train,622__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+train,622__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,622__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+train,622__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,622__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,622__dark_tense__tpl_28,подбери трек для напряженного монтажа,dark_tense,37,5
+train,622__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,622__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,622__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,622__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,622__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,622__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,622__happy_upbeat__tpl_25,"подбери трек, который звучит позитивно",happy_upbeat,38,5
+train,622__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,622__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,622__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,622__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,622__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,622__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,622__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+train,622__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,623__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,623__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,623__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,623__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,623__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,623__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,623__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,623__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,623__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,623__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,623__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,623__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,623__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,623__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,623__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+train,623__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+train,623__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,623__happy_upbeat__tpl_25,"подбери трек, который звучит позитивно",happy_upbeat,38,5
+train,623__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,623__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+train,623__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,623__sad_melancholic__tpl_21,хочу музыку с чувством потери,sad_melancholic,29,5
+train,623__sad_melancholic__tpl_6,хочу трек с ощущением грусти,sad_melancholic,28,5
+train,623__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,624__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,624__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,624__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,624__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,624__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+train,624__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,624__dark_tense__tpl_11,нужна напряженная музыка для видео,dark_tense,34,5
+train,624__dark_tense__tpl_20,нужна музыка с suspense эффектом,dark_tense,32,5
+train,624__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,624__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,624__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,624__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,624__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,624__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,624__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,624__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,624__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,624__happy_upbeat__tpl_8,нужен трек с хорошим настроением,happy_upbeat,32,5
+train,624__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,624__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,624__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,624__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,624__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+train,624__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,803__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,803__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,803__aggressive_intense__tpl_23,нужен тяжелый динамичный трек,aggressive_intense,29,4
+train,803__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,803__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+train,803__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,803__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,803__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,803__dark_tense__tpl_3,хочу мрачную атмосферную музыку,dark_tense,31,4
+train,803__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,803__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,803__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,803__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,803__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,803__energetic_electronic__tpl_1,подбери динамичный электронный трек,energetic_electronic,35,4
+train,803__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,803__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,803__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,803__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,803__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+train,803__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,803__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,803__sad_melancholic__tpl_21,хочу музыку с чувством потери,sad_melancholic,29,5
+train,803__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,805__aggressive_intense__tpl_23,нужен тяжелый динамичный трек,aggressive_intense,29,4
+train,805__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,805__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,805__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+train,805__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,805__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,805__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,805__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,805__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,805__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,805__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+train,805__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,805__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,805__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,805__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,805__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,805__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+train,805__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,805__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,805__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,805__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,805__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+train,805__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,805__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,808__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,808__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,808__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,808__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,808__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,808__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,808__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+train,808__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,808__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,808__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,808__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,808__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,808__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+train,808__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,808__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,808__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+train,808__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,808__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,808__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,808__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,808__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,808__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+train,808__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,808__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,811__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,811__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,811__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,811__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,811__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,811__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,811__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,811__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,811__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,811__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,811__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+train,811__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,811__energetic_electronic__tpl_5,нужна динамичная музыка с битом,energetic_electronic,31,5
+train,811__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,811__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,811__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+train,811__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,811__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,811__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,811__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,811__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,811__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+train,811__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,811__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,814__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,814__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,814__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,814__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,814__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,814__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,814__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,814__dark_tense__tpl_0,хочу напряженную темную музыку,dark_tense,30,4
+train,814__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,814__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,814__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+train,814__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,814__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,814__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,814__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,814__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,814__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,814__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,814__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,814__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,814__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,814__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,814__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,814__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,818__aggressive_intense__tpl_12,хочу aggressive intense music,aggressive_intense,29,4
+train,818__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,818__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,818__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,818__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,818__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,818__dark_tense__tpl_28,подбери трек для напряженного монтажа,dark_tense,37,5
+train,818__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,818__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,818__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,818__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+train,818__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+train,818__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,818__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,818__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,818__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+train,818__happy_upbeat__tpl_25,"подбери трек, который звучит позитивно",happy_upbeat,38,5
+train,818__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,818__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,818__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,818__romantic_warm__tpl_1,подбери мягкий романтический трек,romantic_warm,33,4
+train,818__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,818__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,818__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,819__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,819__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,819__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,819__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+train,819__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,819__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,819__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,819__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,819__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,819__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,819__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+train,819__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,819__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+train,819__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,819__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+train,819__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,819__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,819__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,819__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,819__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,819__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,819__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,819__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,819__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+train,821__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,821__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,821__aggressive_intense__tpl_23,нужен тяжелый динамичный трек,aggressive_intense,29,4
+train,821__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+train,821__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,821__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,821__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,821__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,821__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,821__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,821__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,821__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,821__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,821__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,821__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,821__happy_upbeat__tpl_20,нужна cheerful музыка,happy_upbeat,21,3
+train,821__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,821__happy_upbeat__tpl_8,нужен трек с хорошим настроением,happy_upbeat,32,5
+train,821__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,821__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,821__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+train,821__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,821__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,821__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,823__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,823__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,823__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,823__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,823__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+train,823__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,823__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+train,823__dark_tense__tpl_22,подбери музыку для tense video,dark_tense,30,5
+train,823__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,823__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,823__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,823__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,823__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,823__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,823__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,823__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,823__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,823__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,823__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,823__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,823__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+train,823__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,823__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,823__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,704__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,704__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,704__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,704__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+train,704__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+train,704__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+train,704__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+train,704__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+train,704__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,704__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,704__dreamy_atmospheric__tpl_11,нужна музыка для атмосферного монтажа,dreamy_atmospheric,37,5
+train,704__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,704__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,704__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,704__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,704__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,704__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,704__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,704__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,704__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+train,704__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,704__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,704__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,704__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,705__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,705__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,705__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,705__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,705__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,705__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,705__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+train,705__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,705__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,705__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,705__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+train,705__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,705__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,705__energetic_electronic__tpl_5,нужна динамичная музыка с битом,energetic_electronic,31,5
+train,705__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,705__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,705__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,705__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,705__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,705__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,705__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,705__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,705__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,705__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,707__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,707__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,707__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,707__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,707__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,707__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,707__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,707__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,707__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,707__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,707__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,707__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,707__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,707__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,707__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,707__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,707__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+train,707__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,707__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,707__romantic_warm__tpl_12,хочу музыку с нежной атмосферой,romantic_warm,31,5
+train,707__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,707__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,707__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,707__sad_melancholic__tpl_13,подбери грустный инструментальный фон,sad_melancholic,37,4
+train,708__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,708__aggressive_intense__tpl_26,нужна музыка с максимальным драйвом,aggressive_intense,35,5
+train,708__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,708__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,708__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,708__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,708__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,708__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,708__dark_tense__tpl_11,нужна напряженная музыка для видео,dark_tense,34,5
+train,708__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,708__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,708__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,708__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,708__energetic_electronic__tpl_20,нужна музыка с выраженным ритмом,energetic_electronic,32,5
+train,708__energetic_electronic__tpl_1,подбери динамичный электронный трек,energetic_electronic,35,4
+train,708__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,708__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,708__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,708__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,708__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,708__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,708__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,708__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,708__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,710__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,710__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,710__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,710__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,710__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,710__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,710__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,710__dark_tense__tpl_22,подбери музыку для tense video,dark_tense,30,5
+train,710__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,710__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,710__dreamy_atmospheric__tpl_11,нужна музыка для атмосферного монтажа,dreamy_atmospheric,37,5
+train,710__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,710__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+train,710__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,710__energetic_electronic__tpl_22,подбери трек для бодрого видео,energetic_electronic,30,5
+train,710__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,710__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,710__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,710__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,710__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,710__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,710__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,710__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+train,710__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,711__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,711__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,711__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,711__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+train,711__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,711__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,711__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+train,711__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,711__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+train,711__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,711__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,711__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,711__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,711__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,711__energetic_electronic__tpl_22,подбери трек для бодрого видео,energetic_electronic,30,5
+train,711__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,711__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+train,711__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,711__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,711__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,711__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,711__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+train,711__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+train,711__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,713__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,713__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+train,713__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,713__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,713__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,713__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,713__dark_tense__tpl_11,нужна напряженная музыка для видео,dark_tense,34,5
+train,713__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,713__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,713__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,713__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+train,713__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,713__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,713__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,713__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,713__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,713__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,713__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,713__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,713__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,713__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,713__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,713__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+train,713__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,715__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,715__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,715__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,715__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,715__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,715__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,715__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,715__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,715__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,715__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+train,715__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,715__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,715__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,715__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,715__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,715__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+train,715__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,715__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,715__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,715__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,715__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,715__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,715__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,715__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,717__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,717__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+train,717__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,717__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,717__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,717__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+train,717__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,717__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+train,717__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,717__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,717__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,717__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+train,717__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,717__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,717__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,717__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+train,717__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+train,717__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,717__romantic_warm__tpl_6,хочу теплую акустическую музыку,romantic_warm,31,4
+train,717__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,717__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,717__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,717__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+train,717__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+train,721__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,721__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,721__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,721__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,721__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,721__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,721__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,721__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+train,721__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,721__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,721__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,721__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,721__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,721__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+train,721__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+train,721__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,721__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,721__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,721__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,721__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+train,721__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+train,721__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+train,721__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+train,721__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+train,722__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,722__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,722__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,722__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,722__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,722__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,722__dark_tense__tpl_9,хочу dark cinematic music,dark_tense,25,4
+train,722__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,722__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+train,722__dreamy_atmospheric__tpl_11,нужна музыка для атмосферного монтажа,dreamy_atmospheric,37,5
+train,722__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+train,722__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,722__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,722__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+train,722__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+train,722__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,722__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+train,722__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+train,722__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,722__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+train,722__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,722__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,722__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,722__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,304__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,304__aggressive_intense__tpl_23,нужен тяжелый динамичный трек,aggressive_intense,29,4
+train,304__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,304__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+train,304__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+train,304__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+train,304__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,304__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,304__dark_tense__tpl_22,подбери музыку для tense video,dark_tense,30,5
+train,304__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,304__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,304__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,304__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,304__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,304__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,304__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,304__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,304__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,304__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,304__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,304__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,304__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+train,304__sad_melancholic__tpl_6,хочу трек с ощущением грусти,sad_melancholic,28,5
+train,304__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,310__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,310__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,310__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,310__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+train,310__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,310__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,310__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,310__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,310__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,310__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,310__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,310__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,310__energetic_electronic__tpl_22,подбери трек для бодрого видео,energetic_electronic,30,5
+train,310__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+train,310__energetic_electronic__tpl_20,нужна музыка с выраженным ритмом,energetic_electronic,32,5
+train,310__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,310__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,310__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,310__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,310__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,310__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,310__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,310__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,310__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,402__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,402__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,402__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,402__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+train,402__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,402__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,402__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,402__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,402__dark_tense__tpl_3,хочу мрачную атмосферную музыку,dark_tense,31,4
+train,402__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,402__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,402__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,402__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,402__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,402__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+train,402__happy_upbeat__tpl_20,нужна cheerful музыка,happy_upbeat,21,3
+train,402__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,402__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+train,402__romantic_warm__tpl_4,подбери музыку с ощущением любви,romantic_warm,32,5
+train,402__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,402__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,402__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,402__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+train,402__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,407__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,407__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,407__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,407__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,407__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+train,407__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,407__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,407__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,407__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,407__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+train,407__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,407__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,407__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,407__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,407__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,407__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,407__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,407__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,407__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,407__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,407__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,407__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,407__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,407__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,504__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+train,504__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,504__aggressive_intense__tpl_6,хочу интенсивный трек для динамики,aggressive_intense,34,5
+train,504__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,504__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,504__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,504__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+train,504__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,504__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,504__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,504__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+train,504__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,504__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,504__energetic_electronic__tpl_5,нужна динамичная музыка с битом,energetic_electronic,31,5
+train,504__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,504__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,504__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,504__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,504__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+train,504__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+train,504__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,504__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,504__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+train,504__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,506__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,506__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,506__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,506__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,506__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,506__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,506__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,506__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,506__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,506__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+train,506__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,506__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,506__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,506__energetic_electronic__tpl_25,подбери музыку для быстрого темпа,energetic_electronic,33,5
+train,506__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,506__happy_upbeat__tpl_6,хочу легкую радостную музыку,happy_upbeat,28,4
+train,506__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,506__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,506__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,506__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+train,506__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,506__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,506__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,506__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,507__aggressive_intense__tpl_26,нужна музыка с максимальным драйвом,aggressive_intense,35,5
+train,507__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+train,507__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,507__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,507__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+train,507__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,507__dark_tense__tpl_9,хочу dark cinematic music,dark_tense,25,4
+train,507__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,507__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,507__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+train,507__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,507__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+train,507__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,507__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+train,507__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,507__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,507__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+train,507__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+train,507__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+train,507__romantic_warm__tpl_12,хочу музыку с нежной атмосферой,romantic_warm,31,5
+train,507__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+train,507__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+train,507__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,507__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,508__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,508__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+train,508__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,508__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,508__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+train,508__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,508__dark_tense__tpl_23,нужен драматичный темный саундтрек,dark_tense,34,4
+train,508__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,508__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,508__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,508__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,508__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,508__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,508__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,508__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,508__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,508__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,508__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+train,508__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+train,508__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,508__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,508__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,508__sad_melancholic__tpl_18,хочу медленный печальный саундтрек,sad_melancholic,34,4
+train,508__sad_melancholic__tpl_1,подбери печальный эмоциональный трек,sad_melancholic,36,4
+train,512__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,512__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,512__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,512__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,512__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,512__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,512__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,512__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,512__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,512__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,512__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,512__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,512__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,512__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,512__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,512__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,512__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+train,512__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,512__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,512__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,512__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,512__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,512__sad_melancholic__tpl_5,нужна медленная эмоциональная музыка,sad_melancholic,36,4
+train,512__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+train,514__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,514__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,514__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,514__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+train,514__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+train,514__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,514__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+train,514__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,514__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,514__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+train,514__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,514__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+train,514__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,514__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,514__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,514__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,514__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,514__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,514__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,514__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,514__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+train,514__sad_melancholic__tpl_21,хочу музыку с чувством потери,sad_melancholic,29,5
+train,514__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,514__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,516__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,516__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,516__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+train,516__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+train,516__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+train,516__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+train,516__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,516__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+train,516__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,516__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,516__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,516__dreamy_atmospheric__tpl_24,хочу музыку для вдохновляющей атмосферы,dreamy_atmospheric,39,5
+train,516__energetic_electronic__tpl_1,подбери динамичный электронный трек,energetic_electronic,35,4
+train,516__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,516__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,516__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+train,516__happy_upbeat__tpl_4,подбери музыку с позитивным настроением,happy_upbeat,39,5
+train,516__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,516__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,516__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,516__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,516__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,516__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,516__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+train,519__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+train,519__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,519__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,519__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,519__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+train,519__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,519__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+train,519__dark_tense__tpl_9,хочу dark cinematic music,dark_tense,25,4
+train,519__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+train,519__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,519__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,519__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,519__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,519__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,519__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,519__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+train,519__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,519__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,519__romantic_warm__tpl_3,хочу warm romantic mood,romantic_warm,23,4
+train,519__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,519__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+train,519__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,519__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,519__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,521__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,521__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,521__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+train,521__calm_relaxing__tpl_22,подбери музыку для тихой сцены,calm_relaxing,30,5
+train,521__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+train,521__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,521__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+train,521__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,521__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,521__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,521__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+train,521__dreamy_atmospheric__tpl_4,подбери музыку с воздушной атмосферой,dreamy_atmospheric,37,5
+train,521__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,521__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+train,521__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+train,521__happy_upbeat__tpl_19,"подбери музыку, которая создает хорошее настроение",happy_upbeat,50,6
+train,521__happy_upbeat__tpl_16,подбери что-то радостное и ненавязчивое,happy_upbeat,39,6
+train,521__happy_upbeat__tpl_23,нужен оптимистичный музыкальный фон,happy_upbeat,35,4
+train,521__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,521__romantic_warm__tpl_4,подбери музыку с ощущением любви,romantic_warm,32,5
+train,521__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,521__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+train,521__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+train,521__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+train,522__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,522__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,522__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,522__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+train,522__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+train,522__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,522__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+train,522__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,522__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+train,522__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+train,522__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,522__dreamy_atmospheric__tpl_23,нужен фон с ощущением пространства,dreamy_atmospheric,34,5
+train,522__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,522__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+train,522__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+train,522__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,522__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,522__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+train,522__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,522__romantic_warm__tpl_4,подбери музыку с ощущением любви,romantic_warm,32,5
+train,522__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,522__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,522__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,522__sad_melancholic__tpl_11,нужна музыка для драматичного момента,sad_melancholic,37,5
+train,524__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+train,524__aggressive_intense__tpl_17,нужен мощный трек для спортивного видео,aggressive_intense,39,6
+train,524__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,524__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,524__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+train,524__calm_relaxing__tpl_14,нужна музыка для расслабляющего видео,calm_relaxing,37,5
+train,524__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+train,524__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,524__dark_tense__tpl_27,хочу тревожное атмосферное звучание,dark_tense,35,4
+train,524__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,524__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,524__dreamy_atmospheric__tpl_7,подбери атмосферную музыку для красивого видео,dreamy_atmospheric,46,6
+train,524__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+train,524__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,524__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,524__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,524__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+train,524__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,524__romantic_warm__tpl_1,подбери мягкий романтический трек,romantic_warm,33,4
+train,524__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+train,524__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+train,524__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+train,524__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,524__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+train,902__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+train,902__aggressive_intense__tpl_12,хочу aggressive intense music,aggressive_intense,29,4
+train,902__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,902__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+train,902__calm_relaxing__tpl_26,нужна музыка для slow mood,calm_relaxing,26,5
+train,902__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,902__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,902__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+train,902__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,902__dreamy_atmospheric__tpl_4,подбери музыку с воздушной атмосферой,dreamy_atmospheric,37,5
+train,902__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+train,902__dreamy_atmospheric__tpl_18,хочу музыку для созерцательной сцены,dreamy_atmospheric,36,5
+train,902__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+train,902__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,902__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+train,902__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,902__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,902__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,902__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+train,902__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+train,902__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+train,902__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+train,902__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+train,902__sad_melancholic__tpl_4,подбери melancholic soundtrack,sad_melancholic,30,3
+train,903__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+train,903__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+train,903__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+train,903__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+train,903__calm_relaxing__tpl_2,нужна спокойная музыка без резкой динамики,calm_relaxing,42,6
+train,903__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,903__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,903__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,903__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,903__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+train,903__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+train,903__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+train,903__energetic_electronic__tpl_20,нужна музыка с выраженным ритмом,energetic_electronic,32,5
+train,903__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+train,903__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,903__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+train,903__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+train,903__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,903__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+train,903__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+train,903__romantic_warm__tpl_12,хочу музыку с нежной атмосферой,romantic_warm,31,5
+train,903__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+train,903__sad_melancholic__tpl_20,нужен трек для трогательной сцены,sad_melancholic,33,5
+train,903__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,904__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+train,904__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+train,904__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+train,904__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+train,904__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+train,904__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,904__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+train,904__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+train,904__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,904__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,904__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+train,904__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+train,904__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+train,904__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,904__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+train,904__happy_upbeat__tpl_2,нужна upbeat музыка для видео,happy_upbeat,29,5
+train,904__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,904__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,904__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+train,904__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+train,904__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+train,904__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,904__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+train,904__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+train,906__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+train,906__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+train,906__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+train,906__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+train,906__calm_relaxing__tpl_0,хочу спокойную расслабляющую музыку,calm_relaxing,35,4
+train,906__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+train,906__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+train,906__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+train,906__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+train,906__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,906__dreamy_atmospheric__tpl_11,нужна музыка для атмосферного монтажа,dreamy_atmospheric,37,5
+train,906__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+train,906__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+train,906__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+train,906__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+train,906__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+train,906__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+train,906__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+train,906__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+train,906__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+train,906__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+train,906__sad_melancholic__tpl_19,подбери грустную музыку для видео,sad_melancholic,33,5
+train,906__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+train,906__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+train,908__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+train,908__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+train,908__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+train,908__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+train,908__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+train,908__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+train,908__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+train,908__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+train,908__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,908__dreamy_atmospheric__tpl_20,нужна музыка с мягкой кинематографичностью,dreamy_atmospheric,42,5
+train,908__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+train,908__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+train,908__energetic_electronic__tpl_8,нужна энергичная музыка для action видео,energetic_electronic,40,6
+train,908__energetic_electronic__tpl_21,хочу электронный фон с энергией,energetic_electronic,31,5
+train,908__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+train,908__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+train,908__happy_upbeat__tpl_25,"подбери трек, который звучит позитивно",happy_upbeat,38,5
+train,908__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+train,908__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+train,908__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,908__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+train,908__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+train,908__sad_melancholic__tpl_5,нужна медленная эмоциональная музыка,sad_melancholic,36,4
+train,908__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+train,909__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+train,909__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+train,909__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+train,909__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+train,909__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+train,909__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+train,909__dark_tense__tpl_22,подбери музыку для tense video,dark_tense,30,5
+train,909__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+train,909__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+train,909__dreamy_atmospheric__tpl_27,хочу легкий ambient фон,dreamy_atmospheric,23,4
+train,909__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+train,909__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+train,909__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+train,909__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+train,909__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+train,909__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+train,909__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+train,909__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+train,909__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+train,909__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+train,909__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+train,909__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+train,909__sad_melancholic__tpl_9,хочу спокойную грустную музыку,sad_melancholic,30,4
+train,909__sad_melancholic__tpl_0,хочу грустную меланхоличную музыку,sad_melancholic,34,4
+val,120__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+val,120__aggressive_intense__tpl_4,подбери агрессивный саундтрек,aggressive_intense,29,3
+val,120__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+val,120__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+val,120__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,120__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+val,120__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+val,120__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+val,120__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+val,120__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+val,120__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+val,120__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+val,120__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+val,120__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+val,120__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+val,120__sad_melancholic__tpl_5,нужна медленная эмоциональная музыка,sad_melancholic,36,4
+val,211__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+val,211__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+val,211__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+val,211__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+val,211__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+val,211__dark_tense__tpl_28,подбери трек для напряженного монтажа,dark_tense,37,5
+val,211__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+val,211__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+val,211__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+val,211__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+val,211__happy_upbeat__tpl_2,нужна upbeat музыка для видео,happy_upbeat,29,5
+val,211__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+val,211__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+val,211__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+val,211__sad_melancholic__tpl_13,подбери грустный инструментальный фон,sad_melancholic,37,4
+val,211__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+val,613__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+val,613__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+val,613__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+val,613__calm_relaxing__tpl_16,подбери музыку для peaceful mood,calm_relaxing,32,5
+val,613__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+val,613__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+val,613__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+val,613__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+val,613__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+val,613__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+val,613__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+val,613__happy_upbeat__tpl_10,подбери яркий и дружелюбный трек,happy_upbeat,32,5
+val,613__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+val,613__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+val,613__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+val,613__sad_melancholic__tpl_17,нужна эмоциональная музыка без радости,sad_melancholic,38,5
+val,616__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+val,616__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+val,616__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+val,616__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+val,616__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,616__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+val,616__dreamy_atmospheric__tpl_13,подбери музыку для видео с природой,dreamy_atmospheric,35,6
+val,616__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+val,616__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+val,616__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+val,616__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+val,616__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+val,616__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+val,616__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+val,616__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+val,616__sad_melancholic__tpl_11,нужна музыка для драматичного момента,sad_melancholic,37,5
+val,627__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+val,627__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+val,627__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+val,627__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+val,627__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+val,627__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+val,627__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+val,627__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+val,627__energetic_electronic__tpl_14,нужна музыка для монтажа с быстрыми кадрами,energetic_electronic,43,7
+val,627__energetic_electronic__tpl_22,подбери трек для бодрого видео,energetic_electronic,30,5
+val,627__happy_upbeat__tpl_6,хочу легкую радостную музыку,happy_upbeat,28,4
+val,627__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+val,627__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+val,627__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+val,627__sad_melancholic__tpl_26,"нужна грустная, но мягкая музыка",sad_melancholic,32,5
+val,627__sad_melancholic__tpl_6,хочу трек с ощущением грусти,sad_melancholic,28,5
+val,804__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+val,804__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+val,804__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+val,804__calm_relaxing__tpl_17,нужна спокойная акустическая музыка,calm_relaxing,35,4
+val,804__dark_tense__tpl_9,хочу dark cinematic music,dark_tense,25,4
+val,804__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,804__dreamy_atmospheric__tpl_5,нужен трек для мечтательного настроения,dreamy_atmospheric,39,5
+val,804__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+val,804__energetic_electronic__tpl_25,подбери музыку для быстрого темпа,energetic_electronic,33,5
+val,804__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+val,804__happy_upbeat__tpl_6,хочу легкую радостную музыку,happy_upbeat,28,4
+val,804__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+val,804__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+val,804__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+val,804__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+val,804__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+val,806__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+val,806__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+val,806__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+val,806__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+val,806__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+val,806__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+val,806__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+val,806__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+val,806__energetic_electronic__tpl_17,"нужна музыка, которая добавляет движение",energetic_electronic,40,5
+val,806__energetic_electronic__tpl_24,хочу трек для спортивной нарезки,energetic_electronic,32,5
+val,806__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+val,806__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+val,806__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+val,806__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+val,806__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+val,806__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+val,815__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+val,815__aggressive_intense__tpl_26,нужна музыка с максимальным драйвом,aggressive_intense,35,5
+val,815__calm_relaxing__tpl_11,нужна тихая и мягкая музыка,calm_relaxing,27,5
+val,815__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+val,815__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,815__dark_tense__tpl_21,хочу трек с мрачным настроением,dark_tense,31,5
+val,815__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+val,815__dreamy_atmospheric__tpl_17,нужен воздушный фон для визуала,dreamy_atmospheric,31,5
+val,815__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+val,815__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+val,815__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+val,815__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+val,815__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+val,815__romantic_warm__tpl_7,подбери романтичный instrumental трек,romantic_warm,37,4
+val,815__sad_melancholic__tpl_20,нужен трек для трогательной сцены,sad_melancholic,33,5
+val,815__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+val,718__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+val,718__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+val,718__calm_relaxing__tpl_26,нужна музыка для slow mood,calm_relaxing,26,5
+val,718__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+val,718__dark_tense__tpl_10,подбери трек для хоррор-атмосферы,dark_tense,33,5
+val,718__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+val,718__dreamy_atmospheric__tpl_6,хочу пространственный ambient фон,dreamy_atmospheric,33,4
+val,718__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+val,718__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+val,718__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+val,718__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+val,718__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+val,718__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+val,718__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+val,718__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+val,718__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+val,719__aggressive_intense__tpl_21,хочу aggressive soundtrack,aggressive_intense,26,3
+val,719__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+val,719__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+val,719__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+val,719__dark_tense__tpl_11,нужна напряженная музыка для видео,dark_tense,34,5
+val,719__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+val,719__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+val,719__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+val,719__energetic_electronic__tpl_23,нужна динамичная современная музыка,energetic_electronic,35,4
+val,719__energetic_electronic__tpl_0,хочу энергичную электронную музыку,energetic_electronic,34,4
+val,719__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+val,719__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+val,719__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+val,719__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+val,719__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+val,719__sad_melancholic__tpl_13,подбери грустный инструментальный фон,sad_melancholic,37,4
+val,301__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+val,301__aggressive_intense__tpl_1,подбери мощный агрессивный трек,aggressive_intense,31,4
+val,301__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+val,301__calm_relaxing__tpl_23,нужен расслабленный музыкальный фон,calm_relaxing,35,4
+val,301__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+val,301__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+val,301__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+val,301__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+val,301__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+val,301__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+val,301__happy_upbeat__tpl_7,подбери позитивную музыку для приятного видео,happy_upbeat,45,6
+val,301__happy_upbeat__tpl_17,нужна позитивная музыка для короткого видео,happy_upbeat,43,6
+val,301__romantic_warm__tpl_10,подбери мягкую музыку для пары,romantic_warm,30,5
+val,301__romantic_warm__tpl_14,нужен романтический фон без драматизма,romantic_warm,38,5
+val,301__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+val,301__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+val,305__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+val,305__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+val,305__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+val,305__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+val,305__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+val,305__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,305__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+val,305__dreamy_atmospheric__tpl_2,нужна глубокая атмосферная музыка,dreamy_atmospheric,33,4
+val,305__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+val,305__energetic_electronic__tpl_11,нужен трек с драйвом,energetic_electronic,20,4
+val,305__happy_upbeat__tpl_5,нужен веселый трек без мрачной атмосферы,happy_upbeat,40,6
+val,305__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+val,305__romantic_warm__tpl_4,подбери музыку с ощущением любви,romantic_warm,32,5
+val,305__romantic_warm__tpl_1,подбери мягкий романтический трек,romantic_warm,33,4
+val,305__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+val,305__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+val,405__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+val,405__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+val,405__calm_relaxing__tpl_6,хочу мягкую и спокойную композицию,calm_relaxing,34,5
+val,405__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+val,405__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+val,405__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+val,405__dreamy_atmospheric__tpl_21,хочу dreamy ambient музыку,dreamy_atmospheric,26,4
+val,405__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+val,405__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+val,405__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+val,405__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+val,405__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+val,405__romantic_warm__tpl_21,хочу музыку для красивого личного момента,romantic_warm,41,6
+val,405__romantic_warm__tpl_9,хочу gentle romantic music,romantic_warm,26,4
+val,405__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+val,405__sad_melancholic__tpl_20,нужен трек для трогательной сцены,sad_melancholic,33,5
+val,901__aggressive_intense__tpl_27,хочу мощный intense rock трек,aggressive_intense,29,5
+val,901__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+val,901__calm_relaxing__tpl_25,подбери трек для уютного видео,calm_relaxing,30,5
+val,901__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+val,901__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+val,901__dark_tense__tpl_8,нужна музыка с ощущением опасности,dark_tense,34,5
+val,901__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+val,901__dreamy_atmospheric__tpl_19,подбери deep atmospheric трек,dreamy_atmospheric,29,4
+val,901__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+val,901__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+val,901__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+val,901__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+val,901__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+val,901__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+val,901__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+val,901__sad_melancholic__tpl_14,нужна музыка с печальным оттенком,sad_melancholic,33,5
+val,905__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+val,905__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+val,905__calm_relaxing__tpl_8,нужна музыка для спокойной атмосферы,calm_relaxing,36,5
+val,905__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+val,905__dark_tense__tpl_12,хочу тревожный саундтрек,dark_tense,24,3
+val,905__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+val,905__dreamy_atmospheric__tpl_25,подбери атмосферный трек без агрессии,dreamy_atmospheric,37,5
+val,905__dreamy_atmospheric__tpl_3,хочу dreamy background music,dreamy_atmospheric,28,4
+val,905__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+val,905__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+val,905__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+val,905__happy_upbeat__tpl_12,хочу бодрую позитивную композицию,happy_upbeat,33,4
+val,905__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+val,905__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+val,905__sad_melancholic__tpl_6,хочу трек с ощущением грусти,sad_melancholic,28,5
+val,905__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+test,102__aggressive_intense__tpl_24,хочу интенсивный фон без спокойствия,aggressive_intense,36,5
+test,102__aggressive_intense__tpl_10,подбери hard rock или metal вайб,aggressive_intense,32,6
+test,102__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+test,102__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+test,102__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+test,102__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+test,102__dreamy_atmospheric__tpl_4,подбери музыку с воздушной атмосферой,dreamy_atmospheric,37,5
+test,102__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+test,102__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+test,102__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+test,102__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+test,102__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+test,102__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+test,102__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+test,102__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+test,102__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+test,110__aggressive_intense__tpl_22,подбери музыку для экстремального спорта,aggressive_intense,40,5
+test,110__aggressive_intense__tpl_2,нужна роковая энергичная музыка,aggressive_intense,31,4
+test,110__calm_relaxing__tpl_7,подбери relaxing music,calm_relaxing,22,3
+test,110__calm_relaxing__tpl_27,хочу мягкое спокойное звучание,calm_relaxing,30,4
+test,110__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+test,110__dark_tense__tpl_24,"хочу музыку, которая усиливает тревогу",dark_tense,38,5
+test,110__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+test,110__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+test,110__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+test,110__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+test,110__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+test,110__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+test,110__romantic_warm__tpl_11,нужна теплая спокойная композиция,romantic_warm,33,4
+test,110__romantic_warm__tpl_27,хочу теплую инструментальную музыку,romantic_warm,35,4
+test,110__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+test,110__sad_melancholic__tpl_8,нужна меланхоличная атмосфера,sad_melancholic,29,3
+test,121__aggressive_intense__tpl_13,подбери трек с мощными гитарами,aggressive_intense,31,5
+test,121__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+test,121__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+test,121__calm_relaxing__tpl_4,подбери спокойный инструментальный фон,calm_relaxing,38,4
+test,121__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+test,121__dark_tense__tpl_2,нужна драматичная музыка,dark_tense,24,3
+test,121__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+test,121__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+test,121__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+test,121__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+test,121__happy_upbeat__tpl_29,нужна бодрая и светлая музыка,happy_upbeat,29,5
+test,121__happy_upbeat__tpl_9,"хочу музыку, которая звучит радостно и тепло",happy_upbeat,44,7
+test,121__romantic_warm__tpl_12,хочу музыку с нежной атмосферой,romantic_warm,31,5
+test,121__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+test,121__sad_melancholic__tpl_21,хочу музыку с чувством потери,sad_melancholic,29,5
+test,121__sad_melancholic__tpl_3,хочу sad piano mood,sad_melancholic,19,4
+test,122__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+test,122__aggressive_intense__tpl_20,нужна сильная и напористая музыка,aggressive_intense,33,5
+test,122__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+test,122__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+test,122__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+test,122__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+test,122__dreamy_atmospheric__tpl_8,нужна музыка с ощущением глубины,dreamy_atmospheric,32,5
+test,122__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+test,122__energetic_electronic__tpl_6,хочу электронную музыку для движения,energetic_electronic,36,5
+test,122__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+test,122__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+test,122__happy_upbeat__tpl_13,подбери музыку для веселого ролика,happy_upbeat,34,5
+test,122__romantic_warm__tpl_4,подбери музыку с ощущением любви,romantic_warm,32,5
+test,122__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+test,122__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+test,122__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+test,201__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+test,201__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+test,201__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+test,201__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+test,201__dark_tense__tpl_6,хочу музыку для тревожной сцены,dark_tense,31,5
+test,201__dark_tense__tpl_14,нужен мрачный фон без веселья,dark_tense,29,5
+test,201__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+test,201__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+test,201__energetic_electronic__tpl_13,подбери электронный трек для динамичной сцены,energetic_electronic,45,6
+test,201__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+test,201__happy_upbeat__tpl_28,подбери трек для happy mood,happy_upbeat,27,5
+test,201__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+test,201__romantic_warm__tpl_29,нужна нежная музыка без резкости,romantic_warm,32,5
+test,201__romantic_warm__tpl_28,подбери gentle warm soundtrack,romantic_warm,30,4
+test,201__sad_melancholic__tpl_12,хочу трек с ностальгическим настроением,sad_melancholic,39,5
+test,201__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+test,208__aggressive_intense__tpl_5,нужна музыка с сильным напором,aggressive_intense,30,5
+test,208__aggressive_intense__tpl_3,хочу heavy rock настроение,aggressive_intense,26,4
+test,208__calm_relaxing__tpl_18,хочу трек без агрессии и драматизма,calm_relaxing,35,6
+test,208__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+test,208__dark_tense__tpl_20,нужна музыка с suspense эффектом,dark_tense,32,5
+test,208__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+test,208__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+test,208__dreamy_atmospheric__tpl_27,хочу легкий ambient фон,dreamy_atmospheric,23,4
+test,208__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+test,208__energetic_electronic__tpl_9,хочу музыку с плотным электронным звучанием,energetic_electronic,43,6
+test,208__happy_upbeat__tpl_18,хочу трек с легкой праздничной атмосферой,happy_upbeat,41,6
+test,208__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+test,208__romantic_warm__tpl_25,подбери трек для love mood,romantic_warm,26,5
+test,208__romantic_warm__tpl_5,нужен мягкий эмоциональный фон,romantic_warm,30,4
+test,208__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+test,208__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+test,219__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+test,219__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+test,219__calm_relaxing__tpl_13,подбери спокойный трек для природы,calm_relaxing,34,5
+test,219__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+test,219__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+test,219__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+test,219__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+test,219__dreamy_atmospheric__tpl_12,хочу ambient cinematic mood,dreamy_atmospheric,27,4
+test,219__energetic_electronic__tpl_4,подбери музыку с сильной энергией,energetic_electronic,33,5
+test,219__energetic_electronic__tpl_26,нужен energetic electronic soundtrack,energetic_electronic,37,4
+test,219__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+test,219__happy_upbeat__tpl_14,нужен uplifting трек,happy_upbeat,20,3
+test,219__romantic_warm__tpl_20,нужен теплый музыкальный фон,romantic_warm,28,4
+test,219__romantic_warm__tpl_24,хочу спокойную теплую композицию,romantic_warm,32,4
+test,219__sad_melancholic__tpl_28,подбери музыку для спокойной грусти,sad_melancholic,35,5
+test,219__sad_melancholic__tpl_2,нужна музыка для грустного видео,sad_melancholic,32,5
+test,603__aggressive_intense__tpl_9,хочу что-то тяжелое и энергичное,aggressive_intense,32,6
+test,603__aggressive_intense__tpl_25,подбери трек для angry mood,aggressive_intense,27,5
+test,603__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+test,603__calm_relaxing__tpl_21,хочу спокойный chill трек,calm_relaxing,25,4
+test,603__dark_tense__tpl_0,хочу напряженную темную музыку,dark_tense,30,4
+test,603__dark_tense__tpl_16,подбери dark ambient трек,dark_tense,25,4
+test,603__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+test,603__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+test,603__energetic_electronic__tpl_10,подбери что-то танцевальное и энергичное,energetic_electronic,40,6
+test,603__energetic_electronic__tpl_25,подбери музыку для быстрого темпа,energetic_electronic,33,5
+test,603__happy_upbeat__tpl_15,хочу солнечную и приятную музыку,happy_upbeat,32,5
+test,603__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+test,603__romantic_warm__tpl_26,нужна романтичная музыка для видео,romantic_warm,34,5
+test,603__romantic_warm__tpl_23,нужна музыка с мягким романтическим вайбом,romantic_warm,42,6
+test,603__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+test,603__sad_melancholic__tpl_10,подбери emotional sad трек,sad_melancholic,26,4
+test,626__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+test,626__aggressive_intense__tpl_19,подбери музыку для брутальной сцены,aggressive_intense,35,5
+test,626__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+test,626__calm_relaxing__tpl_9,хочу плавный фоновый трек,calm_relaxing,25,4
+test,626__dark_tense__tpl_26,нужен dark tense background,dark_tense,27,4
+test,626__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+test,626__dreamy_atmospheric__tpl_29,нужна глубокая и мягкая атмосфера,dreamy_atmospheric,33,5
+test,626__dreamy_atmospheric__tpl_14,нужна мечтательная спокойная музыка,dreamy_atmospheric,35,4
+test,626__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+test,626__energetic_electronic__tpl_28,подбери электронный трек с драйвом,energetic_electronic,34,5
+test,626__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+test,626__happy_upbeat__tpl_26,нужна музыка с ощущением радости,happy_upbeat,32,5
+test,626__romantic_warm__tpl_15,хочу приятную теплую музыку,romantic_warm,27,4
+test,626__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+test,626__sad_melancholic__tpl_22,подбери тихую меланхоличную композицию,sad_melancholic,38,4
+test,626__sad_melancholic__tpl_27,хочу трек для melancholic mood,sad_melancholic,30,5
+test,812__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+test,812__aggressive_intense__tpl_0,хочу жесткую интенсивную музыку,aggressive_intense,31,4
+test,812__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+test,812__calm_relaxing__tpl_24,хочу плавную спокойную музыку,calm_relaxing,29,4
+test,812__dark_tense__tpl_20,нужна музыка с suspense эффектом,dark_tense,32,5
+test,812__dark_tense__tpl_5,нужен темный напряженный фон,dark_tense,28,4
+test,812__dreamy_atmospheric__tpl_1,подбери ambient трек,dreamy_atmospheric,20,3
+test,812__dreamy_atmospheric__tpl_27,хочу легкий ambient фон,dreamy_atmospheric,23,4
+test,812__energetic_electronic__tpl_20,нужна музыка с выраженным ритмом,energetic_electronic,32,5
+test,812__energetic_electronic__tpl_16,подбери энергичный dance трек,energetic_electronic,29,4
+test,812__happy_upbeat__tpl_1,подбери радостный и бодрый трек,happy_upbeat,31,5
+test,812__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+test,812__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+test,812__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+test,812__sad_melancholic__tpl_7,подбери музыку для печальной сцены,sad_melancholic,34,5
+test,812__sad_melancholic__tpl_15,хочу melancholic background music,sad_melancholic,33,4
+test,716__aggressive_intense__tpl_18,хочу трек с тяжелой энергетикой,aggressive_intense,31,5
+test,716__aggressive_intense__tpl_29,нужен энергичный агрессивный звук,aggressive_intense,33,4
+test,716__calm_relaxing__tpl_10,подбери музыку без напряжения,calm_relaxing,29,4
+test,716__calm_relaxing__tpl_15,хочу что-то медитативное и мягкое,calm_relaxing,33,6
+test,716__dark_tense__tpl_19,подбери напряженный trailer-like трек,dark_tense,37,5
+test,716__dark_tense__tpl_25,подбери музыку для ночной мрачной сцены,dark_tense,39,6
+test,716__dreamy_atmospheric__tpl_9,хочу мягкий dreamy soundtrack,dreamy_atmospheric,29,4
+test,716__dreamy_atmospheric__tpl_15,хочу трек с пространственным звучанием,dreamy_atmospheric,38,5
+test,716__energetic_electronic__tpl_12,хочу музыку с быстрым темпом,energetic_electronic,28,5
+test,716__energetic_electronic__tpl_18,хочу что-то мощное и электронное,energetic_electronic,32,6
+test,716__happy_upbeat__tpl_3,хочу что-то светлое и жизнерадостное,happy_upbeat,36,6
+test,716__happy_upbeat__tpl_22,подбери музыку для радостного настроения,happy_upbeat,40,5
+test,716__romantic_warm__tpl_16,подбери музыку для sentimental mood,romantic_warm,35,5
+test,716__romantic_warm__tpl_8,нужна музыка для трогательного момента,romantic_warm,38,5
+test,716__sad_melancholic__tpl_25,подбери печальный piano track,sad_melancholic,29,4
+test,716__sad_melancholic__tpl_23,нужен sad cinematic фон,sad_melancholic,23,4
+test,408__aggressive_intense__tpl_11,нужна музыка для экстремального ролика,aggressive_intense,38,5
+test,408__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+test,408__calm_relaxing__tpl_28,подбери спокойную музыку для монтажа,calm_relaxing,36,5
+test,408__calm_relaxing__tpl_20,"нужна музыка, которая не отвлекает",calm_relaxing,34,5
+test,408__dark_tense__tpl_17,нужна музыка для драматического момента,dark_tense,39,5
+test,408__dark_tense__tpl_1,подбери тревожный кинематографичный трек,dark_tense,40,4
+test,408__dreamy_atmospheric__tpl_10,подбери трек для эстетичного видео,dreamy_atmospheric,34,5
+test,408__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+test,408__energetic_electronic__tpl_2,нужна музыка для активного видео,energetic_electronic,32,5
+test,408__energetic_electronic__tpl_1,подбери динамичный электронный трек,energetic_electronic,35,4
+test,408__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+test,408__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+test,408__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+test,408__romantic_warm__tpl_2,нужна музыка для нежного видео,romantic_warm,30,5
+test,408__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5
+test,408__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+test,509__aggressive_intense__tpl_28,подбери жесткую музыку для видео,aggressive_intense,32,5
+test,509__aggressive_intense__tpl_8,нужен трек с агрессивным звучанием,aggressive_intense,34,5
+test,509__calm_relaxing__tpl_5,нужна музыка для медленного видео,calm_relaxing,33,5
+test,509__calm_relaxing__tpl_29,нужен нейтральный расслабляющий фон,calm_relaxing,35,4
+test,509__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+test,509__dark_tense__tpl_15,хочу музыку для страшной или тревожной сцены,dark_tense,44,7
+test,509__dreamy_atmospheric__tpl_0,хочу атмосферную мечтательную музыку,dreamy_atmospheric,36,4
+test,509__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+test,509__energetic_electronic__tpl_27,"хочу музыку, которая звучит современно и активно",energetic_electronic,48,7
+test,509__energetic_electronic__tpl_3,хочу быстрый электронный трек,energetic_electronic,29,4
+test,509__happy_upbeat__tpl_24,хочу веселую музыку для яркого видео,happy_upbeat,36,6
+test,509__happy_upbeat__tpl_27,"хочу что-то легкое, доброе и позитивное",happy_upbeat,39,7
+test,509__romantic_warm__tpl_17,нужна мягкая эмоциональная музыка,romantic_warm,33,4
+test,509__romantic_warm__tpl_0,хочу теплую романтичную музыку,romantic_warm,30,4
+test,509__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+test,509__sad_melancholic__tpl_21,хочу музыку с чувством потери,sad_melancholic,29,5
+test,510__aggressive_intense__tpl_14,нужна жесткая музыка для резкого монтажа,aggressive_intense,40,6
+test,510__aggressive_intense__tpl_7,подбери мощную музыку для action видео,aggressive_intense,38,6
+test,510__calm_relaxing__tpl_19,подбери легкую фоновую музыку,calm_relaxing,29,4
+test,510__calm_relaxing__tpl_3,хочу ненавязчивую расслабленную музыку,calm_relaxing,38,4
+test,510__dark_tense__tpl_4,подбери suspense soundtrack,dark_tense,27,3
+test,510__dark_tense__tpl_7,подбери драматичный cinematic трек,dark_tense,34,4
+test,510__dreamy_atmospheric__tpl_26,нужна музыка для эстетичного визуального контента,dreamy_atmospheric,49,6
+test,510__dreamy_atmospheric__tpl_22,подбери трек для красивого slow motion видео,dreamy_atmospheric,44,7
+test,510__energetic_electronic__tpl_15,хочу клубный электронный вайб,energetic_electronic,29,4
+test,510__energetic_electronic__tpl_19,подбери трек для активного городского видео,energetic_electronic,43,6
+test,510__happy_upbeat__tpl_20,нужна cheerful музыка,happy_upbeat,21,3
+test,510__happy_upbeat__tpl_0,хочу веселую позитивную музыку,happy_upbeat,30,4
+test,510__romantic_warm__tpl_13,подбери warm acoustic трек,romantic_warm,26,4
+test,510__romantic_warm__tpl_18,хочу трек с уютным звучанием,romantic_warm,28,5
+test,510__sad_melancholic__tpl_29,нужна эмоциональная и медленная композиция,sad_melancholic,42,5
+test,510__sad_melancholic__tpl_5,нужна медленная эмоциональная музыка,sad_melancholic,36,4
+test,513__aggressive_intense__tpl_15,хочу музыку с давлением и драйвом,aggressive_intense,33,6
+test,513__aggressive_intense__tpl_16,подбери интенсивный роковый фон,aggressive_intense,31,4
+test,513__calm_relaxing__tpl_12,хочу calm ambient background,calm_relaxing,28,4
+test,513__calm_relaxing__tpl_1,подбери мягкий фоновый трек,calm_relaxing,27,4
+test,513__dark_tense__tpl_18,хочу что-то темное и кинематографичное,dark_tense,38,6
+test,513__dark_tense__tpl_29,нужна кинематографичная темная музыка,dark_tense,37,4
+test,513__dreamy_atmospheric__tpl_28,подбери трек для dream mood,dreamy_atmospheric,27,5
+test,513__dreamy_atmospheric__tpl_16,подбери атмосферную instrumental музыку,dreamy_atmospheric,39,4
+test,513__energetic_electronic__tpl_7,подбери трек для спортивного ролика,energetic_electronic,35,5
+test,513__energetic_electronic__tpl_29,нужна музыка для видео с движением,energetic_electronic,34,6
+test,513__happy_upbeat__tpl_21,хочу приятный бодрый поп-трек,happy_upbeat,29,5
+test,513__happy_upbeat__tpl_11,нужна музыка для счастливого момента,happy_upbeat,36,5
+test,513__romantic_warm__tpl_19,подбери романтическую фоновую музыку,romantic_warm,36,4
+test,513__romantic_warm__tpl_22,подбери нежный piano или guitar трек,romantic_warm,36,6
+test,513__sad_melancholic__tpl_16,подбери трек для sadness mood,sad_melancholic,29,5
+test,513__sad_melancholic__tpl_24,хочу музыку для сентиментального видео,sad_melancholic,38,5

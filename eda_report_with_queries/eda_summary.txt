@@ -1,0 +1,96 @@
+EDA SUMMARY FOR USER-QUERY DATASET
+================================================================================
+
+Dataset size:
+- rows: 126720
+- unique videos: 98
+- unique tracks: 60
+- unique query ids: 2112
+- unique query texts: 240
+- positive ratio: 0.285
+
+Rows by split:
+split
+train    97920
+val      14400
+test     14400
+Name: count, dtype: int64
+
+Unique videos by split:
+split
+test     15
+train    68
+val      15
+Name: video_id, dtype: int64
+
+Unique queries by split:
+split
+test      240
+train    1632
+val       240
+Name: query_id, dtype: int64
+
+Video emotion distribution:
+a_priori_emotion
+no_emotion      16
+sadness         14
+joy             14
+disgust         13
+satisfaction    13
+compassion      12
+surprise         8
+fascination      4
+fear             4
+Name: count, dtype: int64
+
+Track audio category distribution:
+audio_category
+calm_relaxing           20
+dreamy_atmospheric      12
+dark_tense               8
+aggressive_intense       7
+happy_upbeat             6
+sad_melancholic          3
+energetic_electronic     3
+romantic_warm            1
+Name: count, dtype: int64
+
+Query category distribution:
+query_audio_category
+aggressive_intense      264
+calm_relaxing           264
+dark_tense              264
+dreamy_atmospheric      264
+energetic_electronic    264
+happy_upbeat            264
+romantic_warm           264
+sad_melancholic         264
+Name: count, dtype: int64
+
+Positive ratio by split:
+split
+test     0.270833
+train    0.281189
+val      0.323750
+Name: target_binary, dtype: float64
+
+Positive ratio by query category:
+query_audio_category
+calm_relaxing           0.435859
+dreamy_atmospheric      0.414520
+sad_melancholic         0.390215
+romantic_warm           0.307386
+happy_upbeat            0.243687
+dark_tense              0.177652
+aggressive_intense      0.155934
+energetic_electronic    0.153535
+Name: target_binary, dtype: float64
+
+Potential issues:
+- [warning] rare_audio_categories: romantic_warm — Категории с числом треков меньше 3.
+
+Interpretation:
+- The dataset now represents triples: user_query + video + track -> target.
+- Query categories are generated synthetically and balanced by construction.
+- Track categories remain imbalanced because they depend on the selected MTG-Jamendo subset.
+- Split leakage is checked by video_id; tracks are shared across splits because the track dictionary is fixed.
