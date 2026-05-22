@@ -12,6 +12,7 @@
   `"напряжённый cinematic soundtrack"`.
 
 На выходе система возвращает top-K музыкальных треков из фиксированного каталога, отсортированных по score релевантности.
+Каталог аудио доступен по [ссылке](https://drive.google.com/file/d/11s8irMyChZc04JjCsVsdDC6QBI9x0tEq/view?usp=sharing)
 
 
 
