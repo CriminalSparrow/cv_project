@@ -3,3 +3,6 @@ MTG_Jamendo_50
 OpenLAV
 eda_report
 final_dataset
+__pycache__
+training_artifacts
+logs
