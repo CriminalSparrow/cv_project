@@ -1,0 +1,31 @@
+{
+  "date_utc": "2026-10-09T16:30:03.964895+00:00",
+  "cpu": "Apple M3 Pro",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "python": "3.11.9",
+  "mediapipe": "0.10.32",
+  "opencv": "4.11.0",
+  "numpy": "1.26.4",
+  "delegate": "CPU",
+  "source": "/private/tmp/hw01-vtest.avi",
+  "input_resolution": [
+    768,
+    576
+  ],
+  "processing_resolution": [
+    640,
+    480
+  ],
+  "mode": "blur",
+  "smoothing": 0.25,
+  "headless": true,
+  "compare": false,
+  "warmup_frames": 10,
+  "measured_frames": 300,
+  "processing_seconds": 2.7657147081190487,
+  "loop_seconds": 2.9659260389889823,
+  "processing_fps": 108.47105781348965,
+  "loop_fps": 101.14884729299024,
+  "mean_latency_ms": 9.219049027063496,
+  "p95_latency_ms": 10.155133358057357
+}
