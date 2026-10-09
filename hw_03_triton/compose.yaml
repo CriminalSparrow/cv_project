@@ -1,0 +1,48 @@
+name: hw03-triton
+services:
+  server:
+    image: hw03-triton:local
+    build:
+      context: .
+      args:
+        TRITON_IMAGE: ${TRITON_IMAGE:-nvcr.io/nvidia/tritonserver:23.12-py3}
+    platform: linux/amd64
+    shm_size: 1gb
+    ports:
+      - "127.0.0.1:8000:8000"
+      - "127.0.0.1:8001:8001"
+      - "127.0.0.1:8002:8002"
+  client:
+    image: hw03-triton:local
+    platform: linux/amd64
+    profiles: [tools]
+    depends_on:
+      server:
+        condition: service_healthy
+    volumes:
+      - ./results:/workspace/results
+    entrypoint: [python3]
+    command: [clients/infer.py, --url, server:8000]
+  perf:
+    image: ${PERF_IMAGE:-nvcr.io/nvidia/tritonserver:23.12-py3-sdk}
+    platform: linux/amd64
+    profiles: [tools]
+    depends_on:
+      server:
+        condition: service_healthy
+    volumes:
+      - ./scripts:/workspace/scripts:ro
+      - ./results:/workspace/results
+    working_dir: /workspace
+    entrypoint: [bash, scripts/perf.sh]
+    command: [server:8000]
+  analyzer:
+    image: hw03-triton:local
+    platform: linux/amd64
+    profiles: [tools]
+    shm_size: 1gb
+    volumes:
+      - ./results:/workspace/results
+      - ./profiling:/workspace/profiling:ro
+      - ./scripts:/workspace/scripts:ro
+    entrypoint: [bash, scripts/analyze.sh]

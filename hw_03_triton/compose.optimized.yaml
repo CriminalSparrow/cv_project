@@ -1,0 +1,4 @@
+services:
+  server:
+    volumes:
+      - ./profiling/best_config.pbtxt:/workspace/model_repository/selfie_segmentation/config.pbtxt:ro

@@ -1,3 +1,29 @@
+# ДЗ №3: инференс модели в Triton
+
+Код и отчёт: [hw_03_triton/README.md](hw_03_triton/README.md).
+Selfie Segmentation из ДЗ 1, Python backend, CPU, HTTP/gRPC и кастомные метрики.
+Запуск (Docker Compose v2+, доступ к NGC/PyPI):
+
+```bash
+cd hw_03_triton
+docker compose up --build -d --wait server
+```
+
+Замеры на Apple M3 Pro, linux/amd64 под эмуляцией, Triton 2.43.0:
+
+| Конфигурация | Запросов/с | Задержка |
+| --- | ---: | --- |
+| 1 экземпляр, concurrency 1 (Performance Analyzer) | 128.157 | p95 8.635 мс |
+| 1 экземпляр, concurrency 4 (Model Analyzer) | 138.1 | p99 32.4 мс |
+| 4 экземпляра, concurrency 8 (Model Analyzer) | 494.0 | p99 20.1 мс |
+
+Выбраны 4 экземпляра — ускорение в 3.58 раза. Для меньшей задержки подходит
+concurrency 4: 475.4 запросов/с при p99 9.9 мс. Анализ и CSV — в папке задания.
+Из-за ответа NGC 403 замеры выполнены на локальном образе Triton 2.43.0;
+стандартная сборка через NGC 23.12 целиком не проверена.
+
+---
+
 # ДЗ №1: удаление фона в реальном времени
 
 Ветка `hw_01_segmentation`, код и полный отчёт — в

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+results/*
+!results/perf.csv
+!results/model_analyzer.csv
