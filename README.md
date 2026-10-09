@@ -16,6 +16,7 @@ docker compose up --build -d --wait server
 | 1 экземпляр, concurrency 1 (Performance Analyzer) | 128.157 | p95 8.635 мс |
 | 1 экземпляр, concurrency 4 (Model Analyzer) | 138.1 | p99 32.4 мс |
 | 4 экземпляра, concurrency 8 (Model Analyzer) | 494.0 | p99 20.1 мс |
+| 4 экземпляра, concurrency 4 (Model Analyzer) | 475.4 | p99 9.9 мс |
 
 Выбраны 4 экземпляра — ускорение в 3.58 раза. Для меньшей задержки подходит
 concurrency 4: 475.4 запросов/с при p99 9.9 мс. Анализ и CSV — в папке задания.
