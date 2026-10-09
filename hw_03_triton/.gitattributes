@@ -1,2 +1,0 @@
-# Preserve the original output formatting of NVIDIA tools and test runners.
-results/** -whitespace

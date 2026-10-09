@@ -1,8 +1,5 @@
 .venv
-__pycache__
 **/__pycache__
-results/*
-!results/.gitkeep
-.git
-*.pyc
 **/*.pyc
+results
+.git

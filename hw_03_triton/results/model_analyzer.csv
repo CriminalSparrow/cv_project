@@ -15,4 +15,3 @@ selfie_segmentation,1,2,selfie_segmentation_config_default,1:CPU,0,Yes,135.0,17.
 selfie_segmentation,1,4,selfie_segmentation_config_default,1:CPU,0,Yes,132.3,37.1
 selfie_segmentation,1,1,selfie_segmentation_config_default,1:CPU,0,Yes,131.3,8.5
 selfie_segmentation,1,8,selfie_segmentation_config_default,1:CPU,0,No,137.2,63.4
-

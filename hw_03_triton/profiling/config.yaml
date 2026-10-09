@@ -1,9 +1,9 @@
 model_repository: /workspace/model_repository
 triton_launch_mode: local
 triton_server_path: /opt/tritonserver/bin/tritonserver
-checkpoint_directory: /workspace/results/checkpoints
-output_model_repository_path: /workspace/results/configs
-export_path: /workspace/results/model_analyzer
+checkpoint_directory: /workspace/results/local_analyzer/checkpoints
+output_model_repository_path: /workspace/results/local_analyzer/configs
+export_path: /workspace/results/local_analyzer
 override_output_model_repository: true
 run_config_search_disable: true
 collect_cpu_metrics: true
@@ -18,8 +18,8 @@ constraints:
 objectives:
   perf_throughput: 1
 perf_output: true
-perf_output_path: /workspace/results/model_analyzer/perf.log
-triton_output_path: /workspace/results/model_analyzer/triton.log
+perf_output_path: /workspace/results/local_analyzer/perf.log
+triton_output_path: /workspace/results/local_analyzer/triton.log
 triton_server_flags:
   allow-gpu-metrics: false
   pinned-memory-pool-byte-size: 0
