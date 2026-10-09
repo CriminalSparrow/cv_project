@@ -1,0 +1,41 @@
+model_repository: /workspace/model_repository
+triton_launch_mode: local
+triton_server_path: /opt/tritonserver/bin/tritonserver
+checkpoint_directory: /workspace/results/checkpoints
+output_model_repository_path: /workspace/results/configs
+export_path: /workspace/results/model_analyzer
+override_output_model_repository: true
+run_config_search_disable: true
+collect_cpu_metrics: true
+client_protocol: http
+concurrency: [1, 2, 4, 8]
+batch_sizes: [1]
+num_configs_per_model: 3
+num_top_model_configs: 3
+constraints:
+  perf_latency_p99:
+    max: 50
+objectives:
+  perf_throughput: 1
+perf_output: true
+perf_output_path: /workspace/results/model_analyzer/perf.log
+triton_output_path: /workspace/results/model_analyzer/triton.log
+triton_server_flags:
+  allow-gpu-metrics: false
+  pinned-memory-pool-byte-size: 0
+perf_analyzer_flags:
+  measurement-mode: time_windows
+  measurement-interval: 3000
+  stability-percentage: 10
+  max-trials: 10
+  percentile: 95
+  input-data: /workspace/results/input-data-0.json
+profile_models:
+  selfie_segmentation:
+    cpu_only: true
+    model_config_parameters:
+      max_batch_size: 0
+      instance_group:
+        - [{kind: KIND_CPU, count: 1}]
+        - [{kind: KIND_CPU, count: 2}]
+        - [{kind: KIND_CPU, count: 4}]

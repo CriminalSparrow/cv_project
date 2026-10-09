@@ -1,0 +1,24 @@
+{
+  "protocol": "http",
+  "url": "server:8000",
+  "requests": [
+    {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.46766889095306396,
+      "reference_max_abs_error": 0.0
+    },
+    {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.46766889095306396,
+      "reference_max_abs_error": 0.0
+    },
+    {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.46766889095306396,
+      "reference_max_abs_error": 0.0
+    }
+  ]
+}

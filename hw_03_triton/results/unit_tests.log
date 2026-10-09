@@ -1,0 +1,10 @@
+ Container hw03-triton-client-run-ca9fe5131042 Creating 
+ Container hw03-triton-client-run-ca9fe5131042 Created 
+test_failure_does_not_leak_gauge_or_stop_later_request (test_model.ModelTests) ... ok
+test_invalid_input_is_rejected (test_model.ModelTests) ... ok
+test_success_counts_only_active_processing (test_model.ModelTests) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.009s
+
+OK

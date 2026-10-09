@@ -1,0 +1,6 @@
+name: "selfie_segmentation"
+backend: "python"
+max_batch_size: 0
+input [ { name: "IMAGE" data_type: TYPE_UINT8 dims: [256, 256, 3] } ]
+output [ { name: "MASK" data_type: TYPE_FP32 dims: [256, 256] } ]
+instance_group [ { count: 4 kind: KIND_CPU } ]

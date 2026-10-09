@@ -1,3 +1,46 @@
+# ДЗ №3: инференс модели в Triton
+
+Отдельная ветка `hw_03_triton`, код и полный отчёт — в
+[hw_03_triton/README.md](hw_03_triton/README.md).
+MediaPipe Selfie Segmentation из ДЗ 1 обслуживается через Python backend Triton
+на CPU. В папке находятся веса, Dockerfile, HTTP/gRPC-клиенты, кастомные
+COUNTER/GAUGE и сценарии Performance Analyzer / Model Analyzer.
+
+Запуск из корня репозитория, Docker Compose v2+:
+
+```bash
+cd hw_03_triton
+docker compose up --build -d --wait server
+docker compose run --rm client clients/infer.py --url server:8000 --check-reference
+```
+
+Для сборки нужен доступ к `nvcr.io` и PyPI. Целевая платформа — Linux x86_64;
+на Apple Silicon контейнер запускается в эмуляции. Условия фактических проверок,
+замеры и ограничения приведены в полном отчёте.
+
+Фактические результаты на Apple M3 Pro, Docker linux/amd64 под эмуляцией,
+Triton 2.43.0, CPU, вход 256×256:
+
+| Проверка | Результат |
+| --- | --- |
+| HTTP и gRPC | 6/6 ответов точно совпали с прямым MediaPipe |
+| Performance Analyzer, 1 экземпляр / concurrency 1 | 128.157 запросов/с, p95 8.635 мс |
+| Model Analyzer, 1 экземпляр / concurrency 4 | 138.1 запросов/с, p99 32.4 мс |
+| Model Analyzer, 4 экземпляра / concurrency 8 | 494.0 запросов/с, p99 20.1 мс |
+| Model Analyzer, 4 экземпляра / concurrency 4 | 475.4 запросов/с, p99 9.9 мс |
+
+Выбраны 4 CPU-экземпляра: максимальный throughput вырос в 3.58 раза относительно
+лучшей допустимой точки одного экземпляра. Для меньшей задержки предпочтительна
+concurrency около 4. Команда запуска выбранного конфига, CSV, PDF и анализ —
+в [полном отчёте ДЗ 3](hw_03_triton/README.md#model-analyzer-сравнение-конфигураций).
+
+В текущей сети `nvcr.io` возвращал 403, поэтому эти замеры выполнены на имевшемся
+локальном образе Triton 2.43.0; perf_analyzer запускался в отдельном контейнере
+из пакета NVIDIA Model Analyzer. Предусмотренный Dockerfile путь через NGC 23.12
+здесь целиком не проверен. Это ограничение явно зафиксировано в отчёте.
+
+---
+
 # ДЗ №1: удаление фона в реальном времени
 
 Ветка `hw_01_segmentation`, код и полный отчёт — в

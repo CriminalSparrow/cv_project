@@ -1,0 +1,3 @@
+numpy==1.26.4
+tritonclient[http,grpc]==2.41.0
+pillow==10.4.0

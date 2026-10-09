@@ -1,0 +1,18 @@
+Model,Batch,Concurrency,Model Config Path,Instance Group,Max Batch Size,Satisfies Constraints,Throughput (infer/sec),p99 Latency (ms)
+selfie_segmentation,1,8,selfie_segmentation_config_2,4:CPU,0,Yes,494.0,20.1
+selfie_segmentation,1,4,selfie_segmentation_config_2,4:CPU,0,Yes,475.4,9.9
+selfie_segmentation,1,2,selfie_segmentation_config_2,4:CPU,0,Yes,244.4,10.5
+selfie_segmentation,1,1,selfie_segmentation_config_2,4:CPU,0,Yes,121.1,9.8
+selfie_segmentation,1,4,selfie_segmentation_config_1,2:CPU,0,Yes,265.5,16.6
+selfie_segmentation,1,8,selfie_segmentation_config_1,2:CPU,0,Yes,265.0,33.0
+selfie_segmentation,1,2,selfie_segmentation_config_1,2:CPU,0,Yes,254.2,9.0
+selfie_segmentation,1,1,selfie_segmentation_config_1,2:CPU,0,Yes,127.3,9.2
+selfie_segmentation,1,4,selfie_segmentation_config_0,1:CPU,0,Yes,138.1,32.4
+selfie_segmentation,1,2,selfie_segmentation_config_0,1:CPU,0,Yes,136.1,16.1
+selfie_segmentation,1,1,selfie_segmentation_config_0,1:CPU,0,Yes,129.9,9.6
+selfie_segmentation,1,8,selfie_segmentation_config_0,1:CPU,0,No,137.3,64.7
+selfie_segmentation,1,2,selfie_segmentation_config_default,1:CPU,0,Yes,135.0,17.5
+selfie_segmentation,1,4,selfie_segmentation_config_default,1:CPU,0,Yes,132.3,37.1
+selfie_segmentation,1,1,selfie_segmentation_config_default,1:CPU,0,Yes,131.3,8.5
+selfie_segmentation,1,8,selfie_segmentation_config_default,1:CPU,0,No,137.2,63.4
+

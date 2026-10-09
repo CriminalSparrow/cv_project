@@ -1,0 +1,1780 @@
+{
+  "completed": 4477,
+  "workers": 8,
+  "seconds": 10,
+  "before": {
+    "segmentation_processing_seconds_total": 0.0,
+    "segmentation_requests_in_flight": 0.0
+  },
+  "after": {
+    "segmentation_processing_seconds_total": 34.94157038180856,
+    "segmentation_requests_in_flight": 0.0
+  },
+  "peak_in_flight": 4.0,
+  "samples": [
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.0,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.1764530419895891,
+      "segmentation_requests_in_flight": 0.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.1764530419895891,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.2829137930239085,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.36542745801853016,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.4489994150208076,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.5268102050031302,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.616231661013444,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.700432579003973,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.7799129979975987,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.8669322910136543,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 0.9429049570317147,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.0340023330354597,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.1200482090498554,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.2008570010657422,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.289540754063637,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.3707848800695501,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.4627079620258883,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.5571051700244425,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.6432115040079225,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.7329386270284886,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.823728252085857,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.900120336082182,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 1.9913026700669434,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.0830547520454274,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.158608711019042,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.233869213028811,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.324164504010696,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.39886842101987,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.4891823360230774,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.571760378035833,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.6620477110118372,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.756118045988842,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.8271343399974285,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.907921716978308,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 2.9991969259863254,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.073662343027536,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.1578101760242134,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.2381873840640765,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.3253770101000555,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.401545386092039,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.491657594058779,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.5671050540404394,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.6493102620297577,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.731116971001029,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.8212633860093774,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.9121548880066257,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 3.979359221018967,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.061259637994225,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.150942345993825,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.241219429983176,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.322992888992303,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.39936176397896,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.488906597951427,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.566367180959787,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.645291055945563,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.746085054954164,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.827288180968027,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 4.929883636985323,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.010862011971769,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.091307635986596,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.1760751780093415,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.255861263023689,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.346423515002243,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.4220821790077025,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.513059720018646,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.588948429009179,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.678484261967242,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.754368595953565,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.8370828459301265,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 5.926128637918737,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.01177722189459,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.0948948869045125,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.177185679902324,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.2592898479051655,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.341795638945769,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.419479763950221,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.505920430936385,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.583087472914485,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.666723222922883,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.758598012907896,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.849207221908728,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 6.9295577629090985,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.014533718887833,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.098847259854665,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.1823830078792525,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.264152883901262,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.346523342901492,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.420804633889929,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.514301759889349,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.597796132919029,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.690255675915978,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.770402882902999,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.846962465919205,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 7.9373148429294815,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.012994883931242,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.096178968931781,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.181200882958365,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.260539048962528,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.34654533897992,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.434883047957555,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.519904381915694,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.609548174921656,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.681802965904353,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.770839757897193,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.865099425907829,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 8.949455135909375,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.035079758948996,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.116352007971727,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.208243799963384,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.2854120079719,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.368357548955826,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.452436424951884,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.530031548987608,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.621754841995426,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.707938216990442,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.799548759008758,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.886239803017816,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 9.96515009603172,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.053832888021134,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.171800052994513,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.253242512000725,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.336535552982241,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.43063726197579,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.51288251094229,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.604314803960733,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.687377179972827,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.781613428975106,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.880480093997903,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 10.963634677944356,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.05834867694648,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.15239196694165,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.234483299936983,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.317307757926756,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.40056042590004,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.485145049897255,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.575171843884164,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.657470261852723,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.7468545128213,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.825658639820176,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.914042307835189,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 11.999034265812952,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.08655422279844,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.174605179781793,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.252272806756082,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.32950409775367,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.413894015742699,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.496594764728798,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.578681514743948,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.660064804760623,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.741853970786906,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.82382138678804,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.90516355278669,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 12.986970927770017,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.068578091755626,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.149768718736595,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.231618383724708,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.313528968705214,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.402468675732962,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.484212383744307,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.566062674726709,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.648763007717207,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.730915881707915,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.813110840710578,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.89551825770468,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 13.978483214683365,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.055272256664466,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.133015673607588,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.219696301588556,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.302744133616216,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.384324091661256,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.46019367466215,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.549355882641976,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.6304763846274,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.712613428608165,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.795104180593626,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.876119846609072,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 14.958132720625144,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.049275013618171,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.116716471646214,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.2031643466471,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.295310722663999,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.371987014645129,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.458913388632936,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.544128723646281,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.631297305677435,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.70633201567398,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.798552056687186,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.877249433688121,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 15.96316826765542,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.052653766644653,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.13829497466213,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.21963643466006,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.30226897765533,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.38477772565966,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.45558251766488,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.539250226705917,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.6287162276858,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.710104268669966,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.792613895682734,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.8740613526752,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 16.954897768679075,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.036572811673977,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.11858543571725,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.20014289469691,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.282218853695667,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.36530639670673,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.449009730727994,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.53162352372601,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.614785731755546,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.697639188787434,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.775282272792538,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.856051771785133,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 17.94425906278775,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.029112185788108,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.123940058765584,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.2215848917549,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.297275184755563,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.37819376778498,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.466369393776404,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.557372851719265,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.642747185731423,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.722258228750434,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.802282021788415,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.88431122977636,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 18.972713398790802,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.06481081576203,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.14482031678199,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.229573902775883,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.308552277769195,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.395310361738666,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.48131160970661,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.559836735686986,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.645195360673824,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.7329466946685,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.815764987652074,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.897411278652726,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 19.978889651654754,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.06071127561154,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.149494733617757,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.22367773563019,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.312559151629102,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.394408192616538,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.475681610623724,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.557065732617048,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.638059650635114,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.719200192645076,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.80100240066531,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.88246089965105,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 20.965006815618835,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.048165024621994,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.131890814605867,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.216448397608474,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.300142062595114,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.38489385358116,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.469151353550842,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.55145335153793,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.634040391552844,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.715790851594647,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.797389309605933,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.87203118360776,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 21.960678226605523,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.035591223597294,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.118684931556345,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.199655513541074,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.280005555585376,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.356451722589554,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.439141973576625,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.52122018058435,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.602913473601802,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.69342226361914,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.769181928626494,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.862124763603788,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 22.939594972631312,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.018102472648025,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.10549259664549,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.175625887641218,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.26951947361522,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.338212098620716,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.43246972261113,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.511611725596595,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.603289600636344,
+      "segmentation_requests_in_flight": 2.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.678002352666226,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.767072144706617,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.848797770697274,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 23.92113864669227,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.01212814563769,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.087628479654086,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.17051173064101,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.261709313635947,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.336007272650022,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.417498730676016,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.499580854637315,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.58257173160382,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.658593814616324,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.75220564659685,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.83792147958593,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 24.917589186574332,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.0042312265723,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.074749351566425,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.168655599554768,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.24223010057176,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.333782101559336,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.41576197555696,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.490490517549915,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.57249606156256,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.660933268532972,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.73593185255595,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.819324061565567,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.900559187561157,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 25.989944062559516,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.06449781259289,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.15279085362272,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.24161802060553,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.315853686566697,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.404316062573344,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.479390771579347,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.57019160357595,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.648050477553625,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.734042393582058,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.812235100544058,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.898285852512345,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 26.976190686502378,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.063769935484743,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.1470654765144,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.228408309514634,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.309854517516214,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.3984940185328,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.479749727543094,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.561144393548602,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.642071228590794,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.723217727572774,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.804668434575433,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.88605368360004,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 27.967363935589674,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.055935685595614,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.137389767580316,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.21855735158897,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.300174686592072,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.38277685259527,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.465459267623373,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.54713143261324,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.638010307622608,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.72222839258029,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.799950560554862,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.88382060157892,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 28.96146181059885,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.044755225564586,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.126682974601863,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.20775780864642,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.28977093366848,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.37184864167648,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.45348872366594,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.53989705866843,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.6171304746822,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.69885643266025,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.780324346618727,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.86187142864219,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 29.9433850946225,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.024878385593183,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.113083884556545,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.19656751056027,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.280062427569646,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.36357642756775,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.446225176594453,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.52920175960753,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.614832924606162,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.69227142361342,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.769241508634877,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.859148176634335,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 30.94382446965028,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.028141594608314,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.107841552598984,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.189699094582465,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.279148554589483,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.353360804598196,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.4369688056031,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.51889388760901,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.600524677618523,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.681712718636845,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.76309026160743,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.844528470595833,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 31.926165637589293,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.008076513579,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.09089747162943,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.173714968637796,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.25676172065141,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.33264680164575,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.41723209263,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.49414605063794,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.57887630164623,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.65688171664078,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.739066800655564,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.82046579963935,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.90145863365615,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 32.98295038267679,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.06388025369961,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.15308208669012,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.228072921716375,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.317309003701666,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.39187975770619,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.48150692471245,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.56360525972559,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.63837880171195,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.720854176717694,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.802676717721624,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.886621133744484,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 33.97965721672517,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.067655885752174,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.156738051751745,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.24827050874592,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.32932267477736,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.41299834076199,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.5071183397813,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.59451017477841,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.673659257779946,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.75868750779773,
+      "segmentation_requests_in_flight": 4.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.83657629882509,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.91956075679627,
+      "segmentation_requests_in_flight": 3.0
+    },
+    {
+      "segmentation_processing_seconds_total": 34.94157038180856,
+      "segmentation_requests_in_flight": 0.0
+    }
+  ]
+}

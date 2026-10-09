@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+results/local*
+results/checkpoints/
+results/configs/
+results/input-data-0.json
