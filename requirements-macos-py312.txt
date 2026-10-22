@@ -1,0 +1,14 @@
+# Direct project dependencies captured from the removed Python 3.12.13 macOS arm64 environment.
+torch==2.14.0
+transformers==5.17.0
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+opencv-python==5.0.0.93
+pillow==12.3.0
+matplotlib==3.11.2
+tqdm==4.70.1
+requests==2.34.2
+
+# Used to download source videos in the preparation notebook.
+yt-dlp

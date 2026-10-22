@@ -11,3 +11,7 @@ pillow==12.2.0
 
 matplotlib==3.10.9
 tqdm==4.67.3
+
+# Data download used by stage_1_data_preparation_and_EDA.ipynb.
+requests
+yt-dlp

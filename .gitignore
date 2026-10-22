@@ -6,3 +6,6 @@ final_dataset
 __pycache__
 training_artifacts
 logs
+.DS_Store
+.pytest_cache/
+*.py[cod]

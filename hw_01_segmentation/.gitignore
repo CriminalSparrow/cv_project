@@ -1,5 +1,0 @@
-.venv/
-__pycache__/
-results/local*.json
-demo.mp4
-vtest.avi
